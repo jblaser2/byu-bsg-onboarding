@@ -27,7 +27,8 @@ The group is called Biophysics Simulation Group (BSG).
 Basically, the goal is to figure out how different part of bacteria actually work. Part of the project works to run computer simulations of known structure of bacteria and test how they behave down to the atomic level. The idea is that if we can figure out how the bacteria works, the chemical and biomedical engineers can create drugs that strategically kill harmful bacteria to save lives, or even harness the propoerties of useful bacteria to save more lives!
 So one part of our team works on running atomic-level simulations to discover how bacterial structures actually work. Here is a cool video made by one of Researchers so you can have an idea of what these simulations look like! 
 
-https://github.com/user-attachments/assets/0309c161-f461-42e8-b7a7-7ba49b6c70ea
+<img width="1812" height="1112" alt="Cross Section Jul 2 2026 (1)" src="https://github.com/user-attachments/assets/ba3ba411-d7bf-45fd-ac78-600a95b52630" />
+
 <img width="640" height="480" alt="simulation_forces" src="https://github.com/user-attachments/assets/b7f4f3d2-0e9f-4842-82e0-1f493c2dc8b6" />
 (A cross-sectional view of an effector protein pushing the plug up the channel of the Type IV secretion system (T4SS) and its accompanying force diagram-- simulated by Cayson Hamilton)
 
