@@ -1,49 +1,54 @@
 # byu-bsg-onboarding
-A repo that provides the instructions and tips for students joining the Byu Biophysics Simulation Research Group.
 
+Onboarding instructions, resources, and tips for students joining the **BYU Biophysics
+Simulation Group (BSG)** — Dr. Gus Hart's research group at Brigham Young University.
 
-# Introduction
-### Welcome to the group!
-Most STEM majors at BYU require or strongly prefer their students to have experience working as an undergraduate researcher. I want to congratulate you, beause you have been lucky enough to stumble upon the greatest research group there is! We're glad to have you. Welcome to the team. 🙌
+> 📖 **This repo is a website.** The content lives in Markdown under [`docs/`](docs/) and is
+> published as a MkDocs Material site.
 
-## How Research works at BYU
-BYU is very unique when it comes to research assistantships because they heavily prioritize the participation of undergraduate students. Most universities reserve research for primarily graduate students and post-docs. Research groups are headed by one or two professors. The head professor is an expert in a field in which they are pushing the boundaries of science. In the group there are typically 1-2 PhD students and a handful of undergrads. Together, they work to create projects that will advance their field. Typically a project idea is submitted to a foundation like the NSF, DOE, NIH, or some other private organization in the form of a grant proposal. If the grant is accepted, the foundation will give you money to help you accomplish your goals. Then, with money in hand, the work can begin! The proposed project is divided into different subtasks that researchers in the group will work on together or individually. Groups meet together regularly (usually weekly) to report progress, ask and answer questions, and discuss the project. 
+## 🔗 Read the live site
 
-#### A note on publishing
-The way scientists gain status and recognition is by writing scientific articles/papers that then get published in presitigious scientific journals. It is the way that the scientific community reports on their work so that others' can build off of it. Oftentimes, if you have a good idea, somebody else has had that idea too. Scientific articles are what helps us know what has and hasn't been done already in our field. Whenever significant research is done, a paper should written that gives a detailed and reproducible ____ of the work. In many ways, publishing is seen as an end more than a means, but I believe it is better seen as a means to the end of scientific progress. That being said, you should aim to write at least one article and submit it for publishing while you are researching here. 
+Once GitHub Pages is enabled, the site will be live at:
 
-## How Research works in our group (Group Culture)
-Our group has a unique and fun culture! We work hard and play hard. Priorities in the group are: Healthy relationships (family first!), Healthy lifestyle (exercise! yay!), and Learn Learn Learn (this never stops!). 
-Dr. Hart hosts weekly Tea & Chat meetings where we drink homemade tea and talk about our lives, interesting things we've learned, a book we're reading together, and cool problems we're facing in research. These meetings help foster unity and friendship amongst group members. Also a big part of the group is handball! Dr. Hart is president of the handball club and loves when students come and play. If you get good enough to beat him, you might just when $100🤑!
+**https://jblaser2.github.io/byu-bsg-onboarding/**
 
-The expectation for work is that each student puts in at least 10 hours of work each week. What your daily workload actually looks like is up to you, but 10 hours a week is the standard to keep. These 10 hours can involve reading/learning more about the field and your project, practicing a new skill (e.g. learning a new programming language), meeting with fellow researchers, problem-solving in your project, and writing and recording your work. The focus of your work will change based on current needs.
+## ✍️ Editing the content
 
-#### Deciding what to do
-In our group, we take a more of a hands-off approach to working. There will be no one telling you exactly what you need to do. Your job is to ask questions, do research, and find ways that you can contribute to the project. It would be a good idea to set up regular meetings with either Dr. Hart, Braxton, or someone in the group to regularly discuss how to best contribute to the project, and get feedback at how best to tackle the problems you face.
+Everything is plain Markdown — no web-dev experience required. To change a page, edit the
+matching file in [`docs/`](docs/):
 
-## What is the Field?
-Now we get to jump in to what we actually do! The cool stuff! The science! 
-The group is called Biophysics Simulation Group (BSG). 
-Basically, the goal is to figure out how different part of bacteria actually work. 
-**One part** of the team works to run computer simulations of known structure of bacteria and test how they behave down to the atomic level. The idea is that if we can figure out how the bacteria works, the chemical and biomedical engineers can create drugs that strategically kill harmful bacteria to save lives, or even harness the propoerties of useful bacteria to save more lives!
-So one part of our team works on running atomic-level simulations to discover how bacterial structures actually work. Here is a cool video made by one of Researchers so you can have an idea of what these simulations look like! 
+| Page | File |
+| --- | --- |
+| Welcome / intro | `docs/index.md` |
+| About Me | `docs/about-me.md` |
+| The Supercomputer | `docs/getting-started.md` |
+| Understanding CryoEM | `docs/cryoem.md` |
+| Machine Learning | `docs/machine-learning.md` |
+| Conferences | `docs/conferences.md` |
+| Tips & Tricks | `docs/tips.md` |
+| Resources (link hub) | `docs/resources.md` |
+| Glossary | `docs/glossary.md` |
+| Who's Who | `docs/contacts.md` |
+| FAQ | `docs/faq.md` |
 
-<img width="360" height="300" alt="Cross Section Jul 2 2026 (1)" src="https://github.com/user-attachments/assets/ba3ba411-d7bf-45fd-ac78-600a95b52630" />
+Commit to `main` and the site rebuilds and redeploys automatically (see
+`.github/workflows/deploy.yml`).
 
-<img width="340" height="280" alt="simulation_forces" src="https://github.com/user-attachments/assets/b7f4f3d2-0e9f-4842-82e0-1f493c2dc8b6" />
+## 🖥️ Previewing locally (optional)
 
-(A cross-sectional view of an effector protein pushing the plug up the channel of the Type IV secretion system (T4SS) and its accompanying force diagram-- simulated by Cayson Hamilton)
+```bash
+pip install -r requirements.txt
+mkdocs serve
+# open http://127.0.0.1:8000
+```
 
-**The other part** of the team works on a problem just a few steps back. The field of structural biology has many different parts that work together to life-saving discovery possible. You have just seen the simulations of different protein structures moving around on a computer, but how did we get there? How did we know which proteins the T4SS is made up of? How did we know the shape of the bacterial structure? The answer I will give is extremely oversimplified: We just looked at it! Yes that's right, we looked at a bacteria! I know what you're saying. "But Josh! How could that be? bacteria are way too small for you to see them. Especially with your bad eyesight." Yes, yes, my friend, they are much too small, and glasses don't really help. That's where the wonderful invention of an electron microscope comes into play. You see, in 1931, German scientists Ernst Ruska and Max Knoll developed the world's first [electron microscrope](https://www.aaas.org/membership/scientia/development-electron-microscope), which took advantage of the smaller wavelength of electrons (100,000 times smaller than that of visible light) to achieve a resolution of about 0.1 nm. The invention of the electron microscope has allowed for incredible feats such as the detailed visualization of bacteria.
+## 🚀 First-time setup for the maintainer
 
-More specifically, the subset of structural biology that we focus on is called Cryogenic Electron Tomography or CryoET. Essentially CryoET is the collection and imaging of _in situ_ bacterial samples using an electron microscope. Limitations in the microscope and imaging process cause the collected 3D images (tomograms) to be rather blurry. Our team works to improve methods that extract the important pieces of the tomograms and prepare them to be turned into atomic models. 
-<img width="808" height="581" alt="Screenshot 2026-07-02 at 13 06 34" src="https://github.com/user-attachments/assets/8e7f08da-fac5-4f0f-ba83-ff4812fe3bd0" />
+1. Merge this into `main`.
+2. In the repo, go to **Settings → Pages** and set **Source: GitHub Actions**.
+3. Push to `main` — the workflow builds and deploys the site.
 
-This figure shows a bacterial structure (flagellar motor in this case) being extracted from a tomogram. The process is repeated hundreds of times. Then the images are averaged to produce a higher-resolution image of the flagellar motor. This can then be turned into an atomic model which can be used to run simulation like we saw above!
+---
 
-(see: Resources)
-
-
-# Conclusion
-This was just a brief introduction to the group and what we do! I'm sure you still have many questions. We will try and provide some further direction and give you some things you can start learning today!
-Once again, welcome to the greatest group on campus. 😃 We hope you're ready to do some great things!
+_Search this repo for `TODO` to find the few spots that still need group-specific details
+(book list, contact info, etc.)._

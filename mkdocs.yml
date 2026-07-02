@@ -1,0 +1,96 @@
+site_name: BYU BSG Onboarding
+site_description: The (unofficial, mildly satirical, extremely helpful) onboarding guide for new members of the BYU Biophysics Simulation Group.
+site_author: Josh Blaser
+repo_url: https://github.com/jblaser2/byu-bsg-onboarding
+repo_name: jblaser2/byu-bsg-onboarding
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  icon:
+    logo: material/microscope
+    repo: fontawesome/brands/github
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tooltips
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+nav:
+  - Welcome: index.md
+  - About Me: about-me.md
+  - Getting Started:
+      - The Supercomputer: getting-started.md
+      - Understanding CryoEM: cryoem.md
+      - Machine Learning: machine-learning.md
+  - Doing Research:
+      - Conferences: conferences.md
+      - Tips & Tricks: tips.md
+  - Reference:
+      - Resources: resources.md
+      - Glossary: glossary.md
+      - Who's Who: contacts.md
+      - FAQ: faq.md
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jblaser2/byu-bsg-onboarding
+    - icon: material/school
+      link: https://physics.byu.edu/
+
+copyright: Made with 🍵 and questionable amounts of tea by the BYU Biophysics Simulation Group.

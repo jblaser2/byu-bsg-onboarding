@@ -1,0 +1,87 @@
+/* ============================================================
+   BYU Biophysics Simulation Group — onboarding site theme
+   BYU navy (#002E5D) accents + small playful touches.
+   ============================================================ */
+
+:root {
+  --byu-navy: #002E5D;
+  --byu-royal: #0057B8;
+  --byu-tea: #d9a441;
+}
+
+/* Recolor the Material "indigo" primary to true BYU navy */
+[data-md-color-primary="indigo"] {
+  --md-primary-fg-color: var(--byu-navy);
+  --md-primary-fg-color--light: var(--byu-royal);
+  --md-primary-fg-color--dark: #001a35;
+}
+
+[data-md-color-accent="amber"] {
+  --md-accent-fg-color: var(--byu-tea);
+}
+
+/* ---------- Home page hero ---------- */
+.bsg-hero {
+  background: linear-gradient(135deg, var(--byu-navy) 0%, var(--byu-royal) 100%);
+  color: #fff;
+  border-radius: 1rem;
+  padding: 2.5rem 2rem;
+  margin: 0 0 2rem 0;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 46, 93, 0.25);
+}
+
+.bsg-hero h1 {
+  color: #fff;
+  font-weight: 800;
+  margin: 0 0 0.5rem 0;
+  font-size: 2.2rem;
+}
+
+.bsg-hero p {
+  color: rgba(255, 255, 255, 0.92);
+  font-size: 1.05rem;
+  max-width: 42rem;
+  margin: 0.5rem auto 0 auto;
+}
+
+.bsg-hero .bsg-badge {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+}
+
+/* ---------- Grid cards get a little lift ---------- */
+.md-typeset .grid.cards > :hover {
+  transform: translateY(-3px);
+  transition: transform 150ms ease;
+  border-color: var(--byu-royal);
+}
+
+/* ---------- A signature "Josh says" callout ---------- */
+.md-typeset .admonition.josh,
+.md-typeset details.josh {
+  border-color: var(--byu-tea);
+}
+
+.md-typeset .josh > .admonition-title,
+.md-typeset .josh > summary {
+  background-color: rgba(217, 164, 65, 0.12);
+}
+
+.md-typeset .josh > .admonition-title::before,
+.md-typeset .josh > summary::before {
+  background-color: var(--byu-tea);
+  -webkit-mask-image: var(--md-admonition-icon--quote);
+          mask-image: var(--md-admonition-icon--quote);
+}
+
+/* Slightly softer image corners for figures */
+.md-typeset img {
+  border-radius: 0.4rem;
+}
