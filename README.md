@@ -38,6 +38,7 @@ So one part of our team works on running atomic-level simulations to discover ho
 
 More specifically, the subset of structural biology that we focus on is called Cryogenic Electron Tomography or CryoET. Essentially CryoET is the collection and imaging of _in situ_ bacterial samples using an electron microscope. Limitations in the microscope and imaging process cause the collected 3D images (tomograms) to be rather blurry. Our team works to improve methods that extract the important pieces of the tomograms and prepare them to be turned into atomic models. 
 <img width="808" height="581" alt="Screenshot 2026-07-02 at 13 06 34" src="https://github.com/user-attachments/assets/8e7f08da-fac5-4f0f-ba83-ff4812fe3bd0" />
+
 This figure shows a bacterial structure (flagellar motor in this case) being extracted from a tomogram. The process is repeated hundreds of times. Then the images are averaged to produce a higher-resolution image of the flagellar motor. This can then be turned into an atomic model which can be used to run simulation like we saw above!
 
 (see: Resources)
