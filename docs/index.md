@@ -7,10 +7,10 @@ hide:
 
 # Welcome to the Group! 🙌
 
-The (unofficial, mildly satirical, extremely helpful) onboarding guide for new members of the
+The onboarding guide for new members of the
 **BYU Biophysics Simulation Group** — a.k.a. the greatest research group on campus.
 
-<span class="bsg-badge">🍵 Tea &bull; 🏐 Handball &bull; 🦠 Bacteria &bull; 🖥️ Supercomputers</span>
+<span class="bsg-badge">🍵 Tea &bull; 🏐 Handball &bull; 🦠 Bacteria &bull; 🤖 AI</span>
 
 </div>
 
@@ -18,8 +18,8 @@ Most STEM majors at BYU require — or strongly prefer — that their students g
 as an undergraduate researcher. So first, congratulations: you have been lucky enough to stumble
 upon the **greatest research group there is.** We're glad to have you. Welcome to the team.
 
-!!! quote inline end "Josh says 👋"
-    New here and already overwhelmed? That's normal. Read [About Me](about-me.md) — I promise it
+!!! quote inline end "Hey! 👋"
+    New here and already overwhelmed? That's normal. I promise it
     gets better (the headache is temporary).
 
 Not sure where to even begin? Totally fine. This whole site exists so you don't have to figure it
@@ -34,8 +34,7 @@ post-docs.
 
 Here's the general shape of things:
 
-- A research group is headed by one or two professors. The head professor (the **PI**, or
-  "Principal Investigator") is an expert pushing the boundaries of their field.
+- A research group is headed by one or two professors. The head professor is an expert pushing the boundaries of their field.
 - A group typically has 1–2 PhD students and a handful of undergrads.
 - Together they design projects that advance the field.
 - A project idea gets submitted to a foundation — the [NSF](https://www.nsf.gov/),
@@ -61,7 +60,7 @@ In many ways, publishing is treated as an end in itself, but it's better seen as
 real end: scientific progress. That said — you should aim to write at least one article and submit
 it for publication while you're researching here.
 
-## Group culture: startup, not assembly line
+## Group culture: 
 
 Our group has a unique and fun culture. We work hard and play hard. The priorities, in order:
 
@@ -92,7 +91,7 @@ lives, interesting things we've learned, a book we're reading together, and the 
 wrestling with in research. These meetings build unity and friendship across the group.
 
 And then there's **handball** 🏐. Dr. Hart is president of the handball club and loves when
-students come play. If you get good enough to beat him, you might just win **\$100**. 🤑
+students come play. If you get good enough to beat him, you might just win **$100**. 🤑
 
 !!! info "The 10-hour standard"
     Each student is expected to put in **at least 10 hours of work each week.** What your days
@@ -141,7 +140,7 @@ different parts of bacteria actually work. The team splits into two complementar
 
     ➡️ Learn the math behind it on the [Machine Learning](machine-learning.md) page.
 
-=== "Half 2 — Imaging (CryoET) 🔬"
+=== "Half 2 — Imaging (CryoET) 🔬 & AI"
 
     **The other part** of the team works a few steps earlier in the pipeline. Before you can
     simulate a protein structure, you have to *know its shape.* How did we figure out which
@@ -235,11 +234,7 @@ can start learning **today.**
 
 Once again: welcome to the greatest group on campus. 😃 We hope you're ready to do some great things.
 
-*Brag about Dr. Hart:* <!-- TODO: Josh — add a couple sentences bragging about Dr. Gus Hart:
-notable awards, publications, the handball club presidency, his mentoring style, etc. Placeholder
-below so it renders. -->
-
 !!! tip "About Dr. Hart"
-    Dr. Gus Hart is the reason this group is as good as it is — a brilliant scientist, a generous
-    mentor, and (allegedly) an unbeatable handball opponent. *TODO: Josh to add specifics — awards,
-    landmark papers, and the story of why you'd want him in your corner.*
+    Dr. Gus Hart is the reason this group is as good as it is. He cares deeply about the students and is also really cool! He is an excellent teacher and the best mentor you could hope to have. He has been very successful in his work, developing many algorithms and open source codes that have changed the field of materials science. Check out his [Google scholar profile](https://scholar.google.com/citations?user=4Qiq3VEAAAAJ&hl=en). In 2022, Dr. Hart shifted his research focus to data science and computational biophysics, with a particular focus on developing AI for bacterial tomograms. 
+
+*
