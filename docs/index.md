@@ -86,7 +86,7 @@ Our group has a unique and fun culture. We work hard and play hard. The prioriti
 
 </div>
 
-Dr. Hart hosts weekly **Tea & Chat** meetings where we drink homemade tea and talk about our
+Our group hosts weekly **Tea & Chat** meetings where we drink homemade tea and talk about our
 lives, interesting things we've learned, a book we're reading together, and the cool problems we're
 wrestling with in research. These meetings build unity and friendship across the group.
 
