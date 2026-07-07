@@ -10,8 +10,8 @@ months straight. 😵‍💫
 
 <figure markdown="span">
   <!-- TODO: Josh — drop a photo of yourself here (in docs/assets/), or delete this figure block.
-       Example once added: ![Josh](assets/josh.jpg){ width="240" } -->
-  <figcaption>TODO: add a photo of Josh here (optional but fun).</figcaption>
+       ![Josh](assets/josh-pic.jpeg){ width="240" } -->
+  <figcaption></figcaption>
 </figure>
 
 !!! quote "Why this site exists"
