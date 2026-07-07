@@ -14,22 +14,16 @@ months straight. 😵‍💫
   <figcaption>TODO: add a photo of Josh here (optional but fun).</figcaption>
 </figure>
 
-Everyone else seemed to know exactly what they were doing and where everything was, and I very much
-did not. If you feel that way right now — welcome to the club. It's not just you, and it's not
-permanent.
-
 !!! quote "Why this site exists"
     My goal in making this is to save you some of the pain that comes from **not knowing what
-    you're supposed to be doing** — and from not knowing your way around when it seems like everyone
-    else already does.
+    you're supposed to be doing** — and from not knowing your way around.
 
 ## The honest disclaimer
 
 This doesn't mean you won't have to work hard or learn new things. You will. A lot.
 
 But hopefully I can point you in the right direction so you can learn **quickly** and skip a good
-chunk of the headache. That's the whole deal: I take the three months of confusion, you get the
-map.
+chunk of the headache.
 
 ## How to use this site
 
@@ -39,7 +33,7 @@ map.
    don't need to master them day one — just know what's there so you can come back.
 3. **Bookmark [Resources](resources.md).** Every link lives there.
 4. **When you hit a word you don't know, check the [Glossary](glossary.md).** There's a lot of
-   jargon. Nobody's born knowing what "subtomogram averaging" means.
+   jargon.
 5. **Ask questions.** Seriously. See [Who's Who](contacts.md) for who to ask about what.
 
 Alright — let's get you pointed in the right direction. 🚀
