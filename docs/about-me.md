@@ -9,7 +9,7 @@ to me. When I first joined the group, I felt completely lost — I had a headach
 months straight. 😵‍💫
 
 <figure markdown="span">
-  <[Josh](assets/josh-pic.jpeg){ width="240" }>
+  ![Josh](assets/josh-pic.jpeg){ width="240" }
   <figcaption></figcaption>
 </figure>
 
