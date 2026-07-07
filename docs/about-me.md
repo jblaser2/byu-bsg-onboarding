@@ -9,8 +9,7 @@ to me. When I first joined the group, I felt completely lost — I had a headach
 months straight. 😵‍💫
 
 <figure markdown="span">
-  <!-- TODO: Josh — drop a photo of yourself here (in docs/assets/), or delete this figure block.
-       ![Josh](assets/josh-pic.jpeg){ width="240" } -->
+  <![Josh](assets/josh-pic.jpeg){ width="240" }>
   <figcaption></figcaption>
 </figure>
 
