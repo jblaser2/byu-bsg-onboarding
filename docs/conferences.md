@@ -1,13 +1,13 @@
-# Research Conferences 🎤
+# Research Conferences
 
-An important — and genuinely fun — part of being a researcher is **attending and presenting at
-research conferences.**
+An important — and genuinely enjoyable — part of being a researcher is **attending and presenting
+at research conferences.**
 
 ## What is a conference?
 
-A conference is a big, multi-day (usually 2–4 day) meeting where scientists from similar fields
-travel from all around the globe to share their research. Think of it as the family reunion of your
-field, except everyone brought a poster.
+A conference is a multi-day meeting where scientists from a similar field travel from all over to
+share their research, hear what others are working on, and meet people working on similar
+problems.
 
 ## Why they matter
 
@@ -23,36 +23,35 @@ field, except everyone brought a poster.
 
     ---
 
-    Learn state-of-the-art discoveries, tools, and methods — often before they're published.
+    Learn about state-of-the-art discoveries, tools, and methods — often before they're published.
 
 -   :material-comment-check:{ .lg .middle } **Get feedback**
 
     ---
 
-    Present your work and get sharp, generous feedback that makes it better.
+    Present your work and get generous, specific feedback that makes it better.
 
 </div>
 
 !!! tip "Make it a priority"
-    When you get the chance to attend a conference, **take it.** The experience and the connections
-    you make are extremely valuable — often more so than any single day at your desk. Presenting
-    (a poster or a talk) is even better than just attending.
+    When you get the chance to attend a conference, take it. The experience and the connections
+    you make are valuable — often more so than any single day at your desk. Presenting (a poster
+    or a talk) is even better than just attending.
 
-## Bring a website with you
+## Conferences to look into
 
-If you can, it's nice to have a **personal website deployed** to go along with your presentation —
-somewhere people can find you, your projects, and your contact info after they meet you.
+A few conferences relevant to our work that are worth keeping an eye on:
 
-!!! abstract "Do this if you can"
-    A simple personal site (even a single page with your name, research interests, and links) makes
-    you dramatically easier to remember and reach. GitHub Pages is free and works great — you're
-    literally looking at a GitHub Pages site right now.
+- **The CryoEM conference in Wisconsin** (hosted through the UW–Madison CryoEM community — see
+  [cryoem.wisc.edu](https://cryoem.wisc.edu/))
+  !!! note "TODO"
+      *Josh: add the specific conference name and link.*
+- **Red Rock Data Science Conference**
+  !!! note "TODO"
+      *Josh: add a link.*
+- **Tahoe CryoET**
+  !!! note "TODO"
+      *Josh: add a link.*
 
-<!-- TODO: Josh — if the group has a list of go-to conferences (e.g. Biophysical Society Annual
-Meeting, Gordon Research Conferences, specific CryoEM/microscopy meetings), list them here so
-newcomers know what to aim for. -->
-
-!!! note "TODO"
-    *Josh: consider listing the specific conferences our group tends to attend (e.g. the
-    Biophysical Society Annual Meeting, relevant CryoEM/microscopy meetings) so newcomers know what
-    to target.*
+<!-- TODO: Josh — if there are other conferences the group regularly attends (e.g. the Biophysical
+Society Annual Meeting, Gordon Research Conferences), add them here too. -->

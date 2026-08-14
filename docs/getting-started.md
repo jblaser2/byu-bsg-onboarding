@@ -1,78 +1,70 @@
-# Getting Started: The Supercomputer 🖥️
+# Getting Started
 
-## We get to use a supercomputer!
+This page covers two things: how to actually get hired into the group, and what to focus on once
+you're in.
 
-I know. It sounds super high-tech and futuristic.
+## Getting hired
 
-It *is.*
+Before any of the research stuff, you need to be officially brought on as a research assistant.
+That happens through the BYU Physics & Astronomy department:
 
-But let's demystify it, because the word "supercomputer" makes it sound scarier than it is. Really,
-it's just **a computer without a screen that you connect to from your own computer.** That's the
-whole idea.
+[:material-open-in-new: physics.byu.edu/ra](https://physics.byu.edu/ra){ .md-button .md-button--primary }
 
-!!! abstract "Why we use it"
-    - **Storage** — it holds large files that would choke your laptop.
-    - **Compute** — it runs big projects your personal computer was never built to withstand.
-    - **GPUs** — it has some of the newest GPUs, which are essential for running many of the
-      programs we use (simulations, machine learning, image processing).
+That site is where you apply for a research assistantship (RA) position. A couple of things to
+know about the expectations:
 
-## Your go-to website
+- You're expected to work **at least 10 hours a week.**
+- You can go up to an **average of 20 hours a week** if your schedule allows.
 
-Everything supercomputer-related lives at **BYU Research Computing**:
+## Your first steps
 
-[:material-open-in-new: rc.byu.edu](https://rc.byu.edu/){ .md-button .md-button--primary }
-
-On that site you can:
-
-- Request an account
-- Read the documentation
-- **Submit tickets** if you run into any issues
-- Find the Research Computing office location
-
-!!! tip "Go in person — seriously"
-    When you're getting started, I *strongly* recommend visiting the Research Computing office **in
-    person.** They'll walk you through a great introductory course and get you set up far faster
-    than you'd manage alone. It's one of the highest-return hours you'll spend early on.
-
-## What to learn first
+Once you're hired, there's no single "right" first task — the items below can happen in more or
+less any order, based on what you need most. The supercomputer is one option among several, not
+the one you have to start with.
 
 <div class="grid cards" markdown>
 
--   :material-console:{ .lg .middle } **The basics of Linux**
+-   :material-map-marker-path:{ .lg .middle } **Follow the learning path**
 
     ---
 
-    The supercomputer runs Linux. Learn to move around the terminal, manage files, and run jobs.
+    A suggested order for picking up the tools and background knowledge the group uses day to day.
 
-    Good news for Mac users: **Unix is very similar to Linux**, so you can practice right on your
-    Mac's Terminal.
+    [:octicons-arrow-right-24: Learning Path](learning-path.md)
 
--   :material-book-open-variant:{ .lg .middle } **The RC intro course**
+-   :material-server-network:{ .lg .middle } **Request a supercomputer account**
 
     ---
 
-    Research Computing offers an introduction that covers *what the supercomputer is* and how to
-    use it. Take it early.
+    Useful once your work needs more storage or compute than your laptop can handle. Not urgent
+    on day one.
 
-    [:octicons-arrow-right-24: rc.byu.edu](https://rc.byu.edu/)
+    [:octicons-arrow-right-24: The Supercomputer](supercomputer.md)
+
+-   :material-microscope:{ .lg .middle } **Start learning the field**
+
+    ---
+
+    Get familiar with what the group actually studies and why.
+
+    [:octicons-arrow-right-24: Understanding CryoEM](cryoem.md)
+
+-   :material-account-group:{ .lg .middle } **Set up regular meetings**
+
+    ---
+
+    Put a standing check-in on the calendar with Dr. Hart or another group member to talk about
+    your project and get direction.
+
+    [:octicons-arrow-right-24: Who's Who](contacts.md)
 
 </div>
 
-!!! note "A quick mental model"
-    When you "log in" to the supercomputer, you're opening a text-based connection (over SSH) to a
-    machine sitting in a data center somewhere on campus. You type commands, it runs them, and it
-    sends the text results back to you. No mouse, no windows — just you and the terminal. It feels
-    alien for about a week, and then it feels like a superpower.
+!!! tip "Meet with Dr. Hart regularly"
+    The group takes a hands-off approach — nobody hands you a task list. Regular meetings with
+    Dr. Hart (or another group member) are how you get feedback, stay on track, and figure out
+    where to focus next. Set these up early and keep them going.
 
-## Your first-week checklist
-
-- [ ] Visit (or email) the Research Computing office and request an account
-- [ ] Take the RC introductory course
-- [ ] Practice basic Linux/Unix commands (`cd`, `ls`, `pwd`, `mkdir`, `cp`, `mv`, `nano`/`vim`)
-- [ ] Learn how to connect via SSH from your own computer
-- [ ] Find out where your group's shared storage lives (ask in [Who's Who](contacts.md))
-- [ ] Submit a test ticket or ask a teammate to confirm you can run a small job
-
-Once you can log in and move around, come back and dig into
-[Understanding CryoEM](cryoem.md) and [Machine Learning](machine-learning.md) — that's the work
-you'll actually be running on all this horsepower.
+Once you have a sense of the tools and the field, come back and read
+[Understanding CryoEM](cryoem.md) and [Machine Learning](machine-learning.md) for a deeper look at
+the work itself.

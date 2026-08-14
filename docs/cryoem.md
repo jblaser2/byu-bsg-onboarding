@@ -1,4 +1,4 @@
-# Understanding CryoEM 🔬
+# Understanding CryoEM
 
 To contribute to the imaging side of the group, you need a working understanding of the field of
 **Cryo-Electron Microscopy (CryoEM)**. It has two main branches:
@@ -48,9 +48,9 @@ We have access to the entire book — *Methods in Enzymology*, Vol. 579 — thro
 It covers the *entire* field of CryoEM. It's useful for understanding the basics broadly, **but the
 work we do primarily focuses on what's discussed in Chapter 13.**
 
-!!! note "Chapter 13 — unlucky, I guess 🐈‍⬛"
-    Don't let the number spook you. Chapter 13 is the one that maps most directly onto what our
-    group actually does. Read the basics broadly, then live in Chapter 13.
+!!! note "Focus on Chapter 13"
+    Chapter 13 is the one that maps most directly onto what our group actually does. Read the
+    basics broadly, then focus there.
 
 ## 4. Learn the parts of the cell
 

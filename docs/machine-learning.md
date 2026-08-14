@@ -1,4 +1,4 @@
-# Machine Learning 🧠
+# Machine Learning
 
 A lot of what we do — cleaning up blurry tomograms, extracting structures, classifying what we find
 — leans on machine learning. Here's the gentle on-ramp I wish I'd had.
@@ -15,8 +15,8 @@ actually work. Watch it before anything else.
 I can't overstate this: **taking a linear algebra course helps enormously.**
 
 !!! quote "The big reveal"
-    AI is just math! Matrices, vectors, dot products, gradients. Once you see it, it's kind of
-    mind-blowing — the "magic" of AI is linear algebra and calculus doing push-ups. 🤯
+    AI is just math — matrices, vectors, dot products, gradients. Once you see it, the "magic" of
+    AI turns out to be linear algebra and calculus.
 
 If you've already taken linear algebra, dust it off. If you haven't, put it on your schedule.
 

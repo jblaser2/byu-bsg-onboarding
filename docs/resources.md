@@ -1,65 +1,98 @@
-# Resources 🔗
+# Resources
 
 Every link on this site, gathered in one place. Bookmark this page.
 
-## 🖥️ Supercomputer & Computing
+## Getting hired & first steps
 
 | Resource | What it's for |
 | --- | --- |
-| [BYU Research Computing (rc.byu.edu)](https://rc.byu.edu/) | Accounts, docs, support tickets, the intro course. Your go-to for all things supercomputer. |
+| [physics.byu.edu/ra](https://physics.byu.edu/ra) | Apply for a research assistantship position. |
 
-See the full walkthrough on [Getting Started: The Supercomputer](getting-started.md).
+See [Getting Started](getting-started.md) for the full picture.
 
-## 🔬 CryoEM & the Field
+## Supercomputer & computing
+
+| Resource | What it's for |
+| --- | --- |
+| [BYU Research Computing (rc.byu.edu)](https://rc.byu.edu/) | Docs, support tickets, the intro course. |
+| [rc.byu.edu/account/create](https://rc.byu.edu/account/create/) | Request a supercomputer account. |
+
+See the full walkthrough on [The Supercomputer](supercomputer.md).
+
+## Learning path
+
+| Resource | What it's for |
+| --- | --- |
+| [GitHub — Hello World guide](https://docs.github.com/en/get-started/quickstart/hello-world) | The basics of repositories, commits, and pull requests. |
+| [VS Code](https://code.visualstudio.com/) | The editor most of the group uses. |
+| [Google Colab](https://colab.research.google.com/) | Low-friction way to start writing and running Python. |
+| [Anthropic — Claude Code best practices](https://www.anthropic.com/engineering/claude-code-best-practices) | How to use AI coding tools well without losing your own understanding. |
+| [Julia](https://julialang.org/downloads/) | Install when your work calls for it. |
+| [PyTorch tutorials](https://pytorch.org/tutorials/) | Start with a simple MNIST classifier. |
+| [MNIST dataset](http://yann.lecun.com/exdb/mnist/) | Classic first machine-learning project. |
+| [Overleaf](https://www.overleaf.com/) | Where we write papers, using LaTeX. |
+
+See the full ordered path on [Learning Path](learning-path.md).
+
+## CryoEM & the field
 
 | Resource | What it's for |
 | --- | --- |
 | [Grant Jensen's CryoEM YouTube series](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-) | The best video introduction to the field. Start here. |
 | [Wan & Briggs, *Methods in Enzymology* (2016) — PDF](https://cryoem.wisc.edu/wp-content/uploads/sites/341/2024/09/Wan_MethodsEnzymology2016.pdf) | Focused chapter on subtomogram averaging. |
 | [UW–Madison CryoEM Center](https://cryoem.wisc.edu/) | A hub of the field; more resources and context. |
-| [Methods in Enzymology, Vol. 579 (ScienceDirect, BYU login)](https://www.sciencedirect.com/bookseries/methods-in-enzymology/vol/579/suppl/C) | The full CryoEM book. **We focus on Chapter 13.** |
-| [The origin of the electron microscope (AAAS)](https://www.aaas.org/membership/scientia/development-electron-microscope) | The 1931 Ruska & Knoll story behind the tech. |
+| [Methods in Enzymology, Vol. 579 (ScienceDirect, BYU login)](https://www.sciencedirect.com/bookseries/methods-in-enzymology/vol/579/suppl/C) | The full CryoEM book. We focus on Chapter 13. |
+| [The origin of the electron microscope (AAAS)](https://www.aaas.org/membership/scientia/development-electron-microscope) | The 1931 Ruska & Knoll story behind the technology. |
+| CryoET Data Portal (CZI) | Public repository of cryo-ET datasets. *(TODO: Josh — add link.)* |
+| Kaggle competition | *(TODO: Josh — add link.)* |
+| [napari](https://napari.org/) | Multi-dimensional image viewer, used for looking at tomograms. |
+| [IMOD](https://bio3d.colorado.edu/imod/) | Standard tool for tomogram reconstruction and visualization. |
+| [teamtomo](https://github.com/teamtomo) | A collection of composable cryo-ET tools. |
 
 See the study path on [Understanding CryoEM](cryoem.md).
 
-## 🦠 Cell Biology
+## Cell biology
 
 | Resource | What it's for |
 | --- | --- |
 | [The Cell Structure Atlas](https://www.cellstructureatlas.org/introduction.html) | Dean Grant Jensen's animated atlas of prokaryote cell structures — exactly what we look for in tomograms. |
 
-## 🧠 Machine Learning
+## Machine learning
 
 | Resource | What it's for |
 | --- | --- |
 | [3Blue1Brown — Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | The best visual intro to neural networks. |
 | [Glassner — *Deep Learning: A Visual Approach*](https://glassner.com/homepage/books/non-fiction-gallery/book-deep-learning/) | Conceptual deep learning, low on math and code. |
-| Linear algebra (a course!) | The math under all of ML. Take it. |
+| Linear algebra (a course) | The math under all of ML. Take it. |
 
 See the learning path on [Machine Learning](machine-learning.md).
 
-## 🎤 Conferences & Career
+## Conferences & career
 
 | Resource | What it's for |
 | --- | --- |
-| [GitHub Pages](https://pages.github.com/) | Free hosting for a personal research website to bring to conferences. |
+| CryoEM conference in Wisconsin | *(TODO: Josh — add link.)* |
+| Red Rock Data Science Conference | *(TODO: Josh — add link.)* |
+| Tahoe CryoET | *(TODO: Josh — add link.)* |
 
-See [Research Conferences](conferences.md) for the why.
+See [Research Conferences](conferences.md) for why they matter.
 
-## 📚 Books
+## Books
 
 Dr. Hart's book recommendations live on the [Tips & Tricks](tips.md) page.
 
-## 🏛️ BYU & Funding
+## BYU & funding
 
 | Resource | What it's for |
 | --- | --- |
 | [BYU Department of Physics & Astronomy](https://physics.byu.edu/) | The department that houses the group. |
+| [physics.byu.edu/ra](https://physics.byu.edu/ra) | Apply for a research assistantship. |
 | [NSF](https://www.nsf.gov/) &bull; [DOE Office of Science](https://www.energy.gov/science/office-science) &bull; [NIH](https://www.nih.gov/) | Common funding agencies for research grants. |
+| CZI grant | Funds the group's CryoET/AI work. *(TODO: Josh — add a short description of what it funds.)* |
 
 ---
 
 !!! note "Something missing?"
-    This site is a living document. If you find a resource that helped you, add it here — the whole
-    point is that the next person has it easier than you did. See the [README](https://github.com/jblaser2/byu-bsg-onboarding)
-    for how to edit.
+    This site is a living document. If you find a resource that helped you, add it here — the
+    whole point is that the next person has it easier than you did. See the
+    [README](https://github.com/jblaser2/byu-bsg-onboarding) for how to edit.

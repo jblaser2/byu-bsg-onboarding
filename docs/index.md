@@ -5,26 +5,20 @@ hide:
 
 <div class="bsg-hero" markdown>
 
-# Welcome to the Group! 🙌
+# Welcome to the Group
 
-The onboarding guide for new members of the
-**BYU Biophysics Simulation Group** — a.k.a. the greatest research group on campus.
-
-<span class="bsg-badge">🍵 Tea &bull; 🏐 Handball &bull; 🦠 Bacteria &bull; 🤖 AI</span>
+The onboarding guide for new members of the **BYU Biophysics Simulation Group.**
 
 </div>
 
 Most STEM majors at BYU require — or strongly prefer — that their students get experience working
-as an undergraduate researcher. So first, congratulations: you have been lucky enough to stumble
-upon the **greatest research group there is.** We're glad to have you. Welcome to the team.
+as an undergraduate researcher. Congratulations on joining the group. We're glad to have you.
 
-!!! quote inline end "Hey! 👋"
-    New here and already overwhelmed? That's normal. I promise it
-    gets better (the headache is temporary).
+!!! quote inline end "Hey"
+    New here and already feeling a little overwhelmed? That's normal, and it gets easier.
 
-Not sure where to even begin? Totally fine. This whole site exists so you don't have to figure it
-out alone. Skim the cards at the bottom, then start with **[About Me](about-me.md)** and
-**[The Supercomputer](getting-started.md)**.
+Not sure where to begin? This site exists so you don't have to figure it out alone. Skim the cards
+at the bottom, then start with **[About Me](about-me.md)** and **[Getting Started](getting-started.md)**.
 
 ## How research works at BYU
 
@@ -34,14 +28,15 @@ post-docs.
 
 Here's the general shape of things:
 
-- A research group is headed by one or two professors. The head professor is an expert pushing the boundaries of their field.
+- A research group is headed by one or two professors, each an expert pushing the boundaries of
+  their field.
 - A group typically has 1–2 PhD students and a handful of undergrads.
 - Together they design projects that advance the field.
 - A project idea gets submitted to a foundation — the [NSF](https://www.nsf.gov/),
   [DOE](https://www.energy.gov/science/office-science), [NIH](https://www.nih.gov/), or a private
   organization — as a **grant proposal**.
 - If the grant is accepted, the foundation provides funding to help you accomplish your goals.
-- With money in hand, the work begins! The project is divided into subtasks that researchers work
+- With money in hand, the work begins. The project is divided into subtasks that researchers work
   on together or individually.
 - The group meets regularly (usually weekly) to report progress, ask and answer questions, and
   discuss the project.
@@ -54,15 +49,15 @@ others can build off of it.
 
 Often, if you have a good idea, someone else has had that idea too — scientific articles are how we
 know what has and hasn't already been done in a field. Whenever significant research is done, a
-paper should be written that gives a detailed and reproducible **account** of the work.
+paper should be written that gives a detailed and reproducible account of the work.
 
 In many ways, publishing is treated as an end in itself, but it's better seen as a **means** to the
-real end: scientific progress. That said — you should aim to write at least one article and submit
+real end: scientific progress. That said, you should aim to write at least one article and submit
 it for publication while you're researching here.
 
-## Group culture: 
+## Group culture
 
-Our group has a unique and fun culture. We work hard and play hard. The priorities, in order:
+Our group has a good culture. We work hard and try to keep our priorities straight, in order:
 
 <div class="grid cards" markdown>
 
@@ -70,28 +65,28 @@ Our group has a unique and fun culture. We work hard and play hard. The prioriti
 
     ---
 
-    Family first. Always.
+    Family first, always.
 
 - :material-run-fast:{ .lg .middle } **Healthy lifestyle**
 
     ---
 
-    Exercise! Yay! (See: handball, below.)
+    Exercise matters. (See: handball, below.)
 
 - :material-school:{ .lg .middle } **Learn, learn, learn**
 
     ---
 
-    This never stops. It's the whole job, really.
+    This never stops. It's a core part of the job.
 
 </div>
 
 Our group hosts weekly **Tea & Chat** meetings where we drink homemade tea and talk about our
-lives, interesting things we've learned, a book we're reading together, and the cool problems we're
-wrestling with in research. These meetings build unity and friendship across the group.
+lives, interesting things we've learned, a book we're reading together, and the problems we're
+working on. These meetings build unity and friendship across the group.
 
-And then there's **handball** 🏐. Dr. Hart is president of the handball club and loves when
-students come play. If you get good enough to beat him, you might just win **$100**. 🤑
+The group also plays **handball** together — Dr. Hart is president of the handball club and
+enjoys when students come play.
 
 !!! info "The 10-hour standard"
     Each student is expected to put in **at least 10 hours of work each week.** What your days
@@ -107,27 +102,27 @@ students come play. If you get good enough to beat him, you might just win **$10
 
 ### Deciding what to do
 
-We take a **hands-off** approach to work. There will be **no one telling you exactly what to do.**
+We take a **hands-off** approach to work. There's no one telling you exactly what to do.
 
-!!! warning "This is a feature, not a bug"
-    Yes, really. Your job is to ask questions, do research, and find ways to contribute to the
-    project. It feels uncomfortable at first — and then it becomes the best part.
+!!! note "This is intentional"
+    Your job is to ask questions, do research, and find ways to contribute to the project. It can
+    feel uncomfortable at first, and it tends to become one of the best parts of the experience.
 
 Set up **regular meetings** with Dr. Hart, [Braxton](contacts.md), or someone else in the group to
 discuss how you can best contribute and to get feedback on the problems you're facing.
 
-## What is the field? (The cool stuff. The science.)
+## What is the field?
 
-The group is the **Biophysics Simulation Group (BSG)**. Broadly, our goal is to figure out how
-different parts of bacteria actually work. The team splits into two complementary halves.
+The group is the **Biophysics Simulation Group (BSG)**. Broadly, our goal is to understand how
+different parts of bacteria work. The team splits into two complementary halves.
 
-=== "Half 1 — Simulation 🧬"
+=== "Half 1 — Simulation"
 
     **One part** of the team runs computer simulations of known bacterial structures and tests how
     they behave down to the atomic level.
 
     The idea: if we can figure out how bacteria work, chemical and biomedical engineers can design
-    drugs that strategically kill *harmful* bacteria — or even harness the properties of *useful*
+    drugs that strategically target *harmful* bacteria — or harness the properties of *useful*
     bacteria — to save lives.
 
     <figure markdown="span">
@@ -138,18 +133,16 @@ different parts of bacteria actually work. The team splits into two complementar
       Cayson Hamilton.</figcaption>
     </figure>
 
-    ➡️ Learn the math behind it on the [Machine Learning](machine-learning.md) page.
+    Learn the math behind it on the [Machine Learning](machine-learning.md) page.
 
-=== "Half 2 — Imaging (CryoET) 🔬 & AI"
+=== "Half 2 — Imaging (CryoET) and AI"
 
     **The other part** of the team works a few steps earlier in the pipeline. Before you can
-    simulate a protein structure, you have to *know its shape.* How did we figure out which
+    simulate a protein structure, you have to know its shape. How did we figure out which
     proteins the T4SS is made of? How did we know the shape of the structure?
 
-    The (extremely oversimplified) answer: **we just looked at it.** Yes — we looked at a bacterium.
-
-    "But Josh! Bacteria are *way* too small to see — especially with your bad eyesight!" Correct on
-    both counts, my friend; glasses don't help. That's where the **electron microscope** comes in.
+    The short answer: we looked at it. Bacteria are far too small to see with the naked eye, so
+    we rely on the **electron microscope**.
 
     In 1931, German scientists Ernst Ruska and Max Knoll built the world's first
     [electron microscope](https://www.aaas.org/membership/scientia/development-electron-microscope),
@@ -170,7 +163,7 @@ different parts of bacteria actually work. The team splits into two complementar
       which can be turned into an atomic model and simulated, like above.</figcaption>
     </figure>
 
-    ➡️ Full study path on the [Understanding CryoEM](cryoem.md) page.
+    Full study path on the [Understanding CryoEM](cryoem.md) page.
 
 ## Where to next?
 
@@ -180,23 +173,31 @@ different parts of bacteria actually work. The team splits into two complementar
 
     ---
 
-    Who made this and why. (Spoiler: to save you a 3-month headache.)
+    Who made this site and why.
 
     [:octicons-arrow-right-24: Read Josh's note](about-me.md)
 
--   :material-server-network:{ .lg .middle } **The Supercomputer**
+-   :material-map-marker-path:{ .lg .middle } **Getting Started**
 
     ---
 
-    Your new best friend. What it is and how to get on it.
+    How to get hired, and what to focus on first.
 
     [:octicons-arrow-right-24: Get started](getting-started.md)
+
+-   :material-school-outline:{ .lg .middle } **Learning Path**
+
+    ---
+
+    The tools and skills to pick up, roughly in order.
+
+    [:octicons-arrow-right-24: See the path](learning-path.md)
 
 -   :material-microscope:{ .lg .middle } **Understanding CryoEM**
 
     ---
 
-    Grant Jensen, the field, and the one chapter that matters.
+    Grant Jensen, the field, and where to focus your reading.
 
     [:octicons-arrow-right-24: Study the field](cryoem.md)
 
@@ -204,7 +205,7 @@ different parts of bacteria actually work. The team splits into two complementar
 
     ---
 
-    AI is just math. Here's the gentle on-ramp.
+    AI is just math. Here's a gentle on-ramp.
 
     [:octicons-arrow-right-24: Learn ML](machine-learning.md)
 
@@ -212,7 +213,7 @@ different parts of bacteria actually work. The team splits into two complementar
 
     ---
 
-    Every link on this whole site, in one tidy place.
+    Every link on this site, in one place.
 
     [:octicons-arrow-right-24: Browse resources](resources.md)
 
@@ -229,12 +230,14 @@ different parts of bacteria actually work. The team splits into two complementar
 ## In conclusion
 
 This was just a brief introduction to the group and what we do. You almost certainly still have
-questions — good. The rest of this site points you in the right direction and gives you things you
-can start learning **today.**
+questions — that's expected. The rest of this site points you in the right direction and gives you
+things you can start learning today.
 
-Once again: welcome to the greatest group on campus. 😃 We hope you're ready to do some great things.
+Welcome to the group. We hope you're ready to do some good work.
 
 !!! tip "About Dr. Hart"
-    Dr. Gus Hart is the reason this group is as good as it is. He cares deeply about the students and is also really cool! He is an excellent teacher and the best mentor you could hope to have. He has been very successful in his work, developing many algorithms and open source codes that have changed the field of materials science. Check out his [Google scholar profile](https://scholar.google.com/citations?user=4Qiq3VEAAAAJ&hl=en). In 2022, Dr. Hart shifted his research focus to data science and computational biophysics, with a particular focus on developing AI for bacterial tomograms. 
-
-*
+    Dr. Gus Hart cares deeply about his students and is an excellent teacher and mentor. He has
+    developed many algorithms and open source codes that have shaped the field of materials
+    science — see his [Google Scholar profile](https://scholar.google.com/citations?user=4Qiq3VEAAAAJ&hl=en).
+    In 2022, Dr. Hart shifted his research focus to data science and computational biophysics,
+    with a particular focus on developing AI for bacterial tomograms.

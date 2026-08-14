@@ -3,16 +3,16 @@
 Onboarding instructions, resources, and tips for students joining the **BYU Biophysics
 Simulation Group (BSG)** — Dr. Gus Hart's research group at Brigham Young University.
 
-> 📖 **This repo is a website.** The content lives in Markdown under [`docs/`](docs/) and is
+> **This repo is a website.** The content lives in Markdown under [`docs/`](docs/) and is
 > published as a MkDocs Material site.
 
-## 🔗 Read the live site
+## Read the live site
 
 Once GitHub Pages is enabled, the site will be live at:
 
 **https://jblaser2.github.io/byu-bsg-onboarding/**
 
-## ✍️ Editing the content
+## Editing the content
 
 Everything is plain Markdown — no web-dev experience required. To change a page, edit the
 matching file in [`docs/`](docs/):
@@ -21,7 +21,9 @@ matching file in [`docs/`](docs/):
 | --- | --- |
 | Welcome / intro | `docs/index.md` |
 | About Me | `docs/about-me.md` |
-| The Supercomputer | `docs/getting-started.md` |
+| Getting Started | `docs/getting-started.md` |
+| Learning Path | `docs/learning-path.md` |
+| The Supercomputer | `docs/supercomputer.md` |
 | Understanding CryoEM | `docs/cryoem.md` |
 | Machine Learning | `docs/machine-learning.md` |
 | Conferences | `docs/conferences.md` |
@@ -34,7 +36,7 @@ matching file in [`docs/`](docs/):
 Commit to `main` and the site rebuilds and redeploys automatically (see
 `.github/workflows/deploy.yml`).
 
-## 🖥️ Previewing locally (optional)
+## Previewing locally (optional)
 
 ```bash
 pip install -r requirements.txt
@@ -42,7 +44,7 @@ mkdocs serve
 # open http://127.0.0.1:8000
 ```
 
-## 🚀 First-time setup for the maintainer
+## First-time setup for the maintainer
 
 1. Merge this into `main`.
 2. In the repo, go to **Settings → Pages** and set **Source: GitHub Actions**.

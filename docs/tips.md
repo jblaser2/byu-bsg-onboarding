@@ -1,15 +1,15 @@
-# Tips & Tricks 💡
+# Tips & Tricks
 
 A grab-bag of hard-won advice for thriving in the group.
 
-## Read. Seriously.
+## Read
 
 Dr. Hart has some **great book recommendations.**
 
 !!! quote "If you're not a reader..."
-    ...you should start reading now. 📚 Reading is a huge part of the group culture (there's a
-    reason we read a book together at Tea & Chat), and it's one of the best long-term investments
-    you can make in yourself as a researcher and as a person.
+    ...it's worth starting now. Reading is a big part of the group culture (there's a reason we
+    read a book together at Tea & Chat), and it's one of the best long-term investments you can
+    make in yourself as a researcher and as a person.
 
 ### Dr. Hart's book recommendations
 
@@ -57,9 +57,9 @@ Add author + a one-line "why" for each. -->
 
 </div>
 
-!!! tip "Come to Tea & Chat 🍵"
-    It's not optional-optional. It's where you'll actually get to know the group, and where a
-    surprising amount of good problem-solving happens over a warm cup of tea.
+!!! tip "Come to Tea & Chat"
+    It's where you'll actually get to know the group, and where a surprising amount of good
+    problem-solving happens over a warm cup of tea.
 
 <!-- TODO: Josh — add any personal, group-specific tricks you wish you'd known: naming conventions
 for files on the supercomputer, which Slack/Discord/email channels to watch, software everyone

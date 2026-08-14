@@ -1,4 +1,4 @@
-# Who's Who 🧑‍🔬
+# Who's Who
 
 Research goes a lot faster when you know **who to ask about what.** Here's the group directory.
 
@@ -15,7 +15,7 @@ Research goes a lot faster when you know **who to ask about what.** Here's the g
 
     ---
 
-    **Role:** Principal Investigator (group head), handball club president 🏐
+    **Role:** Principal Investigator (group head), handball club president
 
     **Ask about:** the big picture, project direction, book recommendations, and how to best
     contribute.

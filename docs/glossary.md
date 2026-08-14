@@ -1,7 +1,7 @@
-# Glossary 📖
+# Glossary
 
-The field is drowning in acronyms and jargon. Nobody's born knowing this stuff — here's the decoder
-ring. (If a term you hit isn't here, add it! See the [README](https://github.com/jblaser2/byu-bsg-onboarding).)
+The field has a lot of acronyms and jargon. Nobody's born knowing this stuff — here's a decoder.
+(If a term you hit isn't here, add it. See the [README](https://github.com/jblaser2/byu-bsg-onboarding).)
 
 ## The field & methods
 
@@ -75,7 +75,7 @@ ring. (If a term you hit isn't here, add it! See the [README](https://github.com
 
 `Supercomputer / HPC`
 :   **High-Performance Computing** — powerful shared machines (accessed remotely, no screen) for big
-    storage and heavy computation. See [Getting Started](getting-started.md).
+    storage and heavy computation. See [The Supercomputer](supercomputer.md).
 
 `SSH`
 :   **Secure Shell** — the protocol you use to connect to the supercomputer from your own computer.
@@ -89,8 +89,25 @@ ring. (If a term you hit isn't here, add it! See the [README](https://github.com
     to practice on.
 
 `ML`
-:   **Machine Learning** — see the [Machine Learning](machine-learning.md) page. (Reminder: it's
-    just math.)
+:   **Machine Learning** — see the [Machine Learning](machine-learning.md) page. It's math, not
+    magic.
 
-<!-- TODO: Josh — add any group-specific tools, software packages, or shorthand the team uses in
-day-to-day conversation. -->
+## Tools & software
+
+`napari`
+:   A multi-dimensional image viewer used for looking at tomograms and other volumetric data.
+
+`IMOD`
+:   The standard software package for tomogram reconstruction and visualization.
+
+`teamtomo`
+:   A collection of composable, open-source cryo-ET tools.
+
+`Overleaf`
+:   An online LaTeX editor. This is where we write papers.
+
+`CZI`
+:   **Chan Zuckerberg Initiative** — the organization funding the group's grant in this area, and
+    the maintainer of the CryoET Data Portal.
+
+See the [Learning Path](learning-path.md) for where each of these fits in.
