@@ -42,16 +42,14 @@ problems.
 
 A few conferences relevant to our work that are worth keeping an eye on:
 
-- **The CryoEM conference in Wisconsin** (hosted through the UW–Madison CryoEM community — see
-  [cryoem.wisc.edu](https://cryoem.wisc.edu/))
-  !!! note "TODO"
-      *Josh: add the specific conference name and link.*
-- **Red Rock Data Science Conference**
-  !!! note "TODO"
-      *Josh: add a link.*
-- **Tahoe CryoET**
-  !!! note "TODO"
-      *Josh: add a link.*
+- **The CryoEM annual meeting in Wisconsin**, hosted by the
+  [UW–Madison Cryo-EM Research Center](https://cryoem.wisc.edu/). Check their site each year for
+  the current dates.
+- **[Red Rock Data Science Conference](https://www.redrockdatascience.com/)** — held each spring
+  in Southern Utah, mixing technical sessions with outdoor excursions.
+- **[International Cryo-EM 3D Image Analysis Symposium](https://www.scintillon.org/2026-6th-cryo-em-symposium)**
+  — the "Tahoe" one — a biennial symposium at the Granlibakken Conference Center, Lake Tahoe,
+  focused on cryo-EM/cryo-ET image analysis methods.
 
 <!-- TODO: Josh — if there are other conferences the group regularly attends (e.g. the Biophysical
 Society Annual Meeting, Gordon Research Conferences), add them here too. -->

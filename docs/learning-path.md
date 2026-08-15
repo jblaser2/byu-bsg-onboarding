@@ -47,18 +47,20 @@ skip understanding what's actually happening in your code.
 Get oriented in what the group actually studies. See [Understanding CryoEM](cryoem.md) for the
 full study path; a few additional things worth knowing early:
 
-- **The CryoET Data Portal** — a public repository (from the Chan Zuckerberg Initiative) of
-  cryo-electron tomography datasets.
-  !!! note "TODO"
-      *Josh: add the current link to the CryoET Data Portal.*
+- **[The CryoET Data Portal](https://cryoetdataportal.czscience.com/)** — a public repository,
+  built by the Chan Zuckerberg Initiative, of annotated cryo-electron tomography datasets. It's
+  meant to give researchers standardized data to train and test new annotation methods on.
 - **What the CZI grant is for** — the group's work in this area is funded by a grant from the
-  Chan Zuckerberg Initiative.
+  Chan Zuckerberg Initiative to develop AI methods for interpreting cryo-electron tomograms of
+  bacteria — using machine learning to help identify and reconstruct bacterial structures from
+  blurry 3D tomogram images. See
+  [this BYU Physics & Astronomy article](https://physics.byu.edu/department/news/2023-09-using-machine-learning-to-get-a-better-view-of-bacteria)
+  for more.
   !!! note "TODO"
-      *Josh: add a short paragraph on what the grant actually funds.*
-- **The Kaggle competition** — a relevant machine-learning competition the group has been
-  involved with.
-  !!! note "TODO"
-      *Josh: add a link to the specific competition.*
+      *Josh: confirm/expand this description of the grant.*
+- **[The Kaggle competition](https://www.kaggle.com/competitions/czii-cryo-et-object-identification)**
+  — CZII's CryoET Object Identification Challenge, which asked contestants to build ML models that
+  automatically identify protein molecules in tomograms.
 - **What a tomogram actually is** — a 3D image reconstructed from a tilt series, and usually quite
   blurry. Learn to view and navigate one using:
     - [napari](https://napari.org/) — a general-purpose multi-dimensional image viewer.
@@ -67,8 +69,8 @@ full study path; a few additional things worth knowing early:
 - **The packages we use regularly:**
     - [napari](https://napari.org/)
     - [IMOD](https://bio3d.colorado.edu/imod/)
-    - [teamtomo](https://github.com/teamtomo) — a collection of composable, well-maintained
-      cryo-ET tools worth being aware of.
+    - [teamtomo](https://teamtomo.org/) — a collection of composable, well-maintained cryo-ET
+      tools worth being aware of.
 
 ## 5. Languages: Python and Julia
 
@@ -80,7 +82,8 @@ Python is the language you'll use most. Julia comes up for some of the group's s
   most of the basics.
 - Install [Julia](https://julialang.org/downloads/) when your work calls for it.
   !!! note "TODO"
-      *Josh: add the Julia learning resource you had in mind (Giordano?).*
+      *Josh: I couldn't confidently track down a specific "Giordano" Julia resource — let me know
+      who/what you meant (a person in the group, a book, a course?) and I'll add the link.*
 
 ## 6. Overleaf and paper writing
 

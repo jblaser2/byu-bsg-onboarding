@@ -12,7 +12,8 @@ The onboarding guide for new members of the **BYU Biophysics Simulation Group.**
 </div>
 
 Most STEM majors at BYU require — or strongly prefer — that their students get experience working
-as an undergraduate researcher. Congratulations on joining the group. We're glad to have you.
+as an undergraduate researcher. So first, congratulations: you have been lucky enough to stumble
+upon the **greatest research group there is.** We're glad to have you.
 
 !!! quote inline end "Hey"
     New here and already feeling a little overwhelmed? That's normal, and it gets easier.

@@ -43,11 +43,11 @@ See the full ordered path on [Learning Path](learning-path.md).
 | [UW–Madison CryoEM Center](https://cryoem.wisc.edu/) | A hub of the field; more resources and context. |
 | [Methods in Enzymology, Vol. 579 (ScienceDirect, BYU login)](https://www.sciencedirect.com/bookseries/methods-in-enzymology/vol/579/suppl/C) | The full CryoEM book. We focus on Chapter 13. |
 | [The origin of the electron microscope (AAAS)](https://www.aaas.org/membership/scientia/development-electron-microscope) | The 1931 Ruska & Knoll story behind the technology. |
-| CryoET Data Portal (CZI) | Public repository of cryo-ET datasets. *(TODO: Josh — add link.)* |
-| Kaggle competition | *(TODO: Josh — add link.)* |
+| [CryoET Data Portal (CZI)](https://cryoetdataportal.czscience.com/) | Public repository of cryo-ET datasets. |
+| [Kaggle — CZII CryoET Object Identification](https://www.kaggle.com/competitions/czii-cryo-et-object-identification) | The ML competition the group has been involved with. |
 | [napari](https://napari.org/) | Multi-dimensional image viewer, used for looking at tomograms. |
 | [IMOD](https://bio3d.colorado.edu/imod/) | Standard tool for tomogram reconstruction and visualization. |
-| [teamtomo](https://github.com/teamtomo) | A collection of composable cryo-ET tools. |
+| [teamtomo](https://teamtomo.org/) | A collection of composable cryo-ET tools. |
 
 See the study path on [Understanding CryoEM](cryoem.md).
 
@@ -71,9 +71,9 @@ See the learning path on [Machine Learning](machine-learning.md).
 
 | Resource | What it's for |
 | --- | --- |
-| CryoEM conference in Wisconsin | *(TODO: Josh — add link.)* |
-| Red Rock Data Science Conference | *(TODO: Josh — add link.)* |
-| Tahoe CryoET | *(TODO: Josh — add link.)* |
+| [UW–Madison Cryo-EM Research Center](https://cryoem.wisc.edu/) — annual meeting | Check the center's site each year for the current annual meeting dates. |
+| [Red Rock Data Science Conference](https://www.redrockdatascience.com/) | Held each spring in Southern Utah. |
+| [International Cryo-EM 3D Image Analysis Symposium (Lake Tahoe)](https://www.scintillon.org/2026-6th-cryo-em-symposium) | Biennial symposium at Granlibakken Conference Center, Lake Tahoe. |
 
 See [Research Conferences](conferences.md) for why they matter.
 
@@ -88,7 +88,7 @@ Dr. Hart's book recommendations live on the [Tips & Tricks](tips.md) page.
 | [BYU Department of Physics & Astronomy](https://physics.byu.edu/) | The department that houses the group. |
 | [physics.byu.edu/ra](https://physics.byu.edu/ra) | Apply for a research assistantship. |
 | [NSF](https://www.nsf.gov/) &bull; [DOE Office of Science](https://www.energy.gov/science/office-science) &bull; [NIH](https://www.nih.gov/) | Common funding agencies for research grants. |
-| CZI grant | Funds the group's CryoET/AI work. *(TODO: Josh — add a short description of what it funds.)* |
+| [CZI grant](https://physics.byu.edu/department/news/2023-09-using-machine-learning-to-get-a-better-view-of-bacteria) | Funds the group's work developing AI methods to interpret cryo-ET tomograms of bacteria. |
 
 ---
 
