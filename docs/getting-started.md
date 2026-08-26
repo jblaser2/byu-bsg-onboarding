@@ -61,11 +61,6 @@ the one you have to start with.
 
 </div>
 
-!!! tip "Meet with Dr. Hart regularly"
-    The group takes a hands-off approach — nobody hands you a task list. Regular meetings with
-    Dr. Hart (or another group member) are how you get feedback, stay on track, and figure out
-    where to focus next. Set these up early and keep them going.
-
 Once you have a sense of the tools and the field, come back and read
 [Understanding CryoEM](cryoem.md) and [Machine Learning](machine-learning.md) for a deeper look at
 the work itself.

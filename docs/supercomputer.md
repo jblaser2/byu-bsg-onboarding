@@ -80,8 +80,7 @@ Submit the request and it's typically approved within a few days.
 !!! note "A quick mental model"
     Logging in to the supercomputer opens a text-based connection (over SSH) to a machine in a
     data center on campus. You type commands, it runs them, and sends the results back as text.
-    No mouse, no windows — just the terminal. It feels unfamiliar for about a week, and then it
-    starts to feel normal.
+    No mouse, no windows — just the terminal.
 
 ## Connecting with VS Code
 
@@ -101,5 +100,5 @@ directly from VS Code:
 - [ ] Take the RC introductory course
 - [ ] Practice basic Linux/Unix commands (`cd`, `ls`, `pwd`, `mkdir`, `cp`, `mv`, `nano`/`vim`)
 - [ ] Learn how to connect via SSH from your own computer
-- [ ] Ask in [Who's Who](contacts.md) to be added to the group's shared file system
+- [ ] Make sure that you are added to the group's shared file system
 - [ ] Confirm you can run a small test job

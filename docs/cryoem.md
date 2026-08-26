@@ -68,5 +68,5 @@ bacteria.
 
 ---
 
-Once the field makes sense, head over to [Machine Learning](machine-learning.md) — a lot of the
-methods we build for cleaning up and interpreting tomograms lean on ML.
+This field is complicated and will take a lot of time to figure out. Keep returning to this page
+as you learn more — it'll make more sense each time.
