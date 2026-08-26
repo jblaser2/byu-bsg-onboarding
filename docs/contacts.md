@@ -1,6 +1,8 @@
 # Who's Who
 
 Research goes a lot faster when you know **who to ask about what.** Here's the group directory.
+See [Contact](contact.md) for the quick-reference version and how to reach the group day to day
+(Zulip).
 
 !!! info "Group meeting"
     The whole group meets **Fridays at 10 AM in N149** (ESC).
@@ -27,9 +29,11 @@ Email: physics_office@byu.edu &bull; Phone: 801-422-4361 &bull;
     **Ask about:** the big picture, project direction, book recommendations, and how to best
     contribute.
 
+    **Email:** gus_hart@byu.edu
+
     [Dr. Hart's bio](https://bsg.byu.edu/bio){ .md-button }
 
-    *TODO: office location, email, preferred contact method, office hours.*
+    *TODO: office location, office hours.*
 
 </div>
 
@@ -46,7 +50,9 @@ Email: physics_office@byu.edu &bull; Phone: 801-422-4361 &bull;
     **Ask about:** day-to-day project questions and feedback — a great person to set up regular
     check-ins with.
 
-    *TODO: last name, email, expertise, contact preference.*
+    **Email:** cbo27@byu.edu
+
+    *TODO: last name, expertise, contact preference.*
 
 -   :material-account:{ .lg .middle } **Cayson Hamilton**
 

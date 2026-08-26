@@ -2,6 +2,14 @@
 
 Every link on this site, gathered in one place. Bookmark this page.
 
+## Contact & communication
+
+| Resource | What it's for |
+| --- | --- |
+| [Zulip](https://zulip.com/) | Create an account here, then ask someone in the group to add you to the group's workspace. |
+
+See [Contact](contact.md) for group emails and [Who's Who](contacts.md) for the full directory.
+
 ## The official group page
 
 | Resource | What it's for |
@@ -40,6 +48,8 @@ See the full walkthrough on [The Supercomputer](supercomputer.md).
 | [VS Code](https://code.visualstudio.com/) | The editor most of the group uses. |
 | [Google Colab](https://colab.research.google.com/) | Low-friction way to start writing and running Python. |
 | [Anthropic — Claude Code best practices](https://www.anthropic.com/engineering/claude-code-best-practices) | How to use AI coding tools well without losing your own understanding. |
+| [Boris Tane — How I use Claude Code](https://boristane.com/blog/how-i-use-claude-code/#feedback-during-implementation) | A practical workflow: plan first, then give short feedback during implementation. |
+| BYU Claude account | Sign up with `netid@student.byu.edu`, not a personal email. |
 | [Julia](https://julialang.org/downloads/) | The group's primary simulation language — install when your work calls for it. |
 | [A concise Julia tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/) | Setup plus a walkthrough of the language. |
 | [Julia syntax video](https://www.youtube.com/watch?v=sE67bP2PnOo) | Video introduction to the basics. |

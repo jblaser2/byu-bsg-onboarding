@@ -22,7 +22,16 @@ upon the **greatest research group there is.** We're glad to have you.
     New here and already feeling a little overwhelmed? That's normal, and it gets easier.
 
 Not sure where to begin? This site exists so you don't have to figure it out alone. Skim the cards
-at the bottom, then start with **[About Me](about-me.md)** and **[Getting Started](getting-started.md)**.
+at the bottom, or work through the site roughly in this order:
+
+1. **[Getting Started](getting-started.md)** — how to actually get hired, and what to focus on first.
+2. **[Learning Path](learning-path.md)** — the tools and background knowledge to pick up, roughly
+   in order of importance.
+3. **[Understanding CryoEM](cryoem.md) and [Machine Learning](machine-learning.md)** — skim now,
+   come back later.
+4. **[Resources](resources.md)** — bookmark it; every link on this site lives there.
+5. **[Glossary](glossary.md)** — for when you hit a word you don't know.
+6. **[Contact](contact.md)** — who to ask, and how we communicate day to day.
 
 ## How research works at BYU
 
@@ -174,13 +183,13 @@ different parts of bacteria work. The team splits into two complementary halves.
 
 <div class="grid cards" markdown>
 
--   :material-account:{ .lg .middle } **About Me**
+-   :material-card-account-phone:{ .lg .middle } **Contact**
 
     ---
 
-    Who made this site and why.
+    Who to ask, and how we communicate day to day.
 
-    [:octicons-arrow-right-24: Read Josh's note](about-me.md)
+    [:octicons-arrow-right-24: Get in touch](contact.md)
 
 -   :material-map-marker-path:{ .lg .middle } **Getting Started**
 
@@ -229,6 +238,14 @@ different parts of bacteria work. The team splits into two complementary halves.
     Decode the jargon and get your questions answered.
 
     [:octicons-arrow-right-24: FAQ](faq.md) &bull; [Glossary](glossary.md)
+
+-   :material-account:{ .lg .middle } **About Me**
+
+    ---
+
+    Who made this site and why.
+
+    [:octicons-arrow-right-24: Read Josh's note](about-me.md)
 
 </div>
 

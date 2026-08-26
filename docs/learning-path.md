@@ -44,12 +44,20 @@ These tools are extremely useful — and easy to lean on too much. Use them to m
 skip understanding what's actually happening in your code.
 
 [:material-open-in-new: Anthropic — Claude Code best practices](https://www.anthropic.com/engineering/claude-code-best-practices){ .md-button }
+[:material-open-in-new: Boris Tane — How I use Claude Code](https://boristane.com/blog/how-i-use-claude-code/#feedback-during-implementation){ .md-button }
+
+The second link is a good practical walkthrough of a workflow: research and plan first, get that
+plan reviewed *before* any code gets written, then give short, targeted feedback during
+implementation rather than re-explaining context Claude already has.
 
 !!! warning "Stay in the loop"
     It's easy to let the AI do something you don't fully understand, or to miss a mistake it
     made because you weren't reading closely. Review what it writes, ask it to explain choices you
     don't follow, and keep building your own understanding — the tool should speed up your
     learning, not replace it.
+
+!!! tip "Using the BYU Claude account"
+    Sign up using your BYU student email — **`netid@student.byu.edu`** — not a personal email.
 
 ## 4. Learn the field
 

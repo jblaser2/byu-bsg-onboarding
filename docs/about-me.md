@@ -21,19 +21,5 @@ me. When I first joined the group, I felt pretty lost for the first few months.
 This doesn't mean you won't have to work hard or learn new things. You will, a lot.
 
 But hopefully I can point you in the right direction so you can learn quickly and skip a good
-chunk of the headache I went through.
-
-## How to use this site
-
-1. **Start here, then read [Getting Started](getting-started.md).** It covers how to actually get
-   hired and what to focus on first.
-2. **Work through the [Learning Path](learning-path.md).** It lists the tools and background
-   knowledge to pick up, roughly in order of importance.
-3. **Skim [Understanding CryoEM](cryoem.md) and [Machine Learning](machine-learning.md).** You
-   don't need to master them day one — just know what's there so you can come back.
-4. **Bookmark [Resources](resources.md).** Every link on this site lives there.
-5. **When you hit a word you don't know, check the [Glossary](glossary.md).** There's a lot of
-   jargon.
-6. **Ask questions.** See [Who's Who](contacts.md) for who to ask about what.
-
-Let's get you pointed in the right direction.
+chunk of the headache I went through. See the homepage for a suggested reading order through the
+rest of the site, and [Contact](contact.md) if you want to reach me or anyone else in the group.
