@@ -30,12 +30,15 @@ matching file in [`docs/`](docs/):
 | Resources (link hub) | `docs/resources.md` |
 | Glossary | `docs/glossary.md` |
 | Who's Who | `docs/contacts.md` |
-| FAQ | `docs/faq.md` |
 | Contact (last item in the top nav) | `docs/contact.md` |
 | About Me (not in nav — linked only from Contact) | `docs/about-me.md` |
 
 Commit to `main` and the site rebuilds and redeploys automatically (see
 `.github/workflows/deploy.yml`).
+
+**New group members:** if you spot something on the site that's out of date or missing, make a
+note of it and email Josh (joshuablaser@gmail.com) — he'll add you as a collaborator so you can
+edit the repo directly and help keep it current.
 
 ## Previewing locally (optional)
 

@@ -7,7 +7,7 @@ See [Contact](contact.md) for the quick-reference version and how to reach the g
 people join and leave.
 
 !!! info "Group meeting"
-    The whole group meets **Fridays at 10 AM in N149** (ESC).
+    The whole group meets **Mondays at 4 PM in N288** (ESC).
 
 **Department of Physics and Astronomy** — N283 ESC, Provo, UT 84602
 Email: physics_office@byu.edu &bull; Phone: 801-422-4361 &bull;

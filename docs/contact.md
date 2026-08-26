@@ -27,3 +27,11 @@ For the full directory — roles, who to ask about what — see [Who's Who](cont
     2. Ask someone already in the group (Dr. Hart, Braxton, or anyone in
        [Who's Who](contacts.md)) to add you to the group's workspace:
        [byu-bsg.zulipchat.com](https://byu-bsg.zulipchat.com/).
+
+## Help keep this site updated
+
+!!! tip "Something out of date?"
+    This site is only useful if it stays current. If you notice anything that should be changed —
+    outdated info, a broken link, something missing — make a note of it, then email me at
+    joshuablaser@gmail.com. I'll add you as a collaborator on the repo so you can edit it directly
+    and help keep it up to date for the next person.

@@ -56,7 +56,6 @@ nav:
       - Resources: resources.md
       - Glossary: glossary.md
       - Who's Who: contacts.md
-      - FAQ: faq.md
   - Contact: contact.md
 
 markdown_extensions:

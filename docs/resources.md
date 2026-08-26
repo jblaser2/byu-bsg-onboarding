@@ -87,8 +87,7 @@ See the study path on [Understanding CryoEM](cryoem.md).
 | [Simulations of Proposed Mechanisms of FtsZ-Driven Cell Constriction](https://journals.asm.org/doi/10.1128/JB.00576-20) | Paper. |
 | [James C. Gumbart](https://www.youtube.com/watch?v=tp-FPanCaWM) &bull; [Grant J. Jensen](https://www.youtube.com/watch?v=FSOrXcWOMJU) &bull; [Sven van Teeffelen](https://www.youtube.com/watch?v=oYY03X2mZgw) &bull; [Cécile Morlot](https://www.youtube.com/watch?v=71c3rET3qAI) &bull; [Bart Hoogenboom](https://www.youtube.com/watch?v=y-I0thStOv0) &bull; [Seamus Holden](https://www.youtube.com/watch?v=7GP5zZyTRPY) | Biophysical modeling lectures. |
 
-See the [Learning Path](learning-path.md) for the books in this list, and the
-[Tips & Tricks](tips.md) page for the full book table.
+See the [Learning Path](learning-path.md) for the full reading list, including these books.
 
 ## Cell biology
 
@@ -118,7 +117,8 @@ See [Research Conferences](conferences.md) for why they matter.
 
 ## Books
 
-Dr. Hart's book recommendations live on the [Tips & Tricks](tips.md) page.
+Biophysics book recommendations live in the [Learning Path](learning-path.md#simulation-biophysics-background-reading).
+Dr. Hart also has general recommendations — ask him directly, or see [Tips & Tricks](tips.md).
 
 ## BYU & funding
 

@@ -223,13 +223,13 @@ different parts of bacteria work. The team splits into two complementary halves.
 
     [:octicons-arrow-right-24: Browse resources](resources.md)
 
--   :material-help-circle:{ .lg .middle } **FAQ & Glossary**
+-   :material-help-circle:{ .lg .middle } **Glossary**
 
     ---
 
-    Decode the jargon and get your questions answered.
+    Decode the jargon.
 
-    [:octicons-arrow-right-24: FAQ](faq.md) &bull; [Glossary](glossary.md)
+    [:octicons-arrow-right-24: Glossary](glossary.md)
 
 -   :material-card-account-phone:{ .lg .middle } **Contact**
 
