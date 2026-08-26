@@ -25,8 +25,5 @@ For the full directory — roles, who to ask about what — see [Who's Who](cont
 
     1. [Create a Zulip account](https://zulip.com/).
     2. Ask someone already in the group (Dr. Hart, Braxton, or anyone in
-       [Who's Who](contacts.md)) to add you to the group's Zulip organization.
-
-    !!! note "TODO"
-        *Josh: confirm the workspace — I found [byu-bsg.zulipchat.com](https://byu-bsg.zulipchat.com/)
-        referenced on this machine, but let me know if that's not the right one to link.*
+       [Who's Who](contacts.md)) to add you to the group's workspace:
+       [byu-bsg.zulipchat.com](https://byu-bsg.zulipchat.com/).
