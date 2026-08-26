@@ -10,8 +10,9 @@ That happens through the BYU Physics & Astronomy department:
 
 [:material-open-in-new: physics.byu.edu/ra](https://physics.byu.edu/ra){ .md-button .md-button--primary }
 
-That site is where you apply for a research assistantship (RA) position. A couple of things to
-know about the expectations:
+Log in and fill out your information, and select **Gus Hart** as the supervisor.
+
+A couple of things to know about the expectations:
 
 - You're expected to work **at least 10 hours a week.**
 - You can go up to an **average of 20 hours a week** if your schedule allows.
