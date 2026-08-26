@@ -77,22 +77,11 @@ The group collaborates closely with two other professors:
 
     **Email:** cbo27@byu.edu
 
--   :material-account:{ .lg .middle } **Cayson Hamilton**
-
-    ---
-
-    **Role:** Undergraduate (senior) — CS with a bioinformatics emphasis, minors in physics and
-    math. Works on biophysical modeling — the T4SS animation on the home page is his work.
-
-    **Ask about:** the molecular dynamics simulations.
-
-    *TODO: email, contact preference.*
-
 </div>
 
 ## Research staff
 
-Part of the wider biophysics group, primarily supporting the Jensen lab's imaging work:
+Part of the wider biophysics group:
 
 <div class="grid cards" markdown>
 
@@ -102,36 +91,42 @@ Part of the wider biophysics group, primarily supporting the Jensen lab's imagin
 
     **Role:** Post-doctoral scholar
 
--   :material-account:{ .lg .middle } **Zhiping Zhang**
+</div>
+
+## Other members
+
+<div class="grid cards" markdown>
+
+-   :material-account:{ .lg .middle } **David Darley**
 
     ---
 
-    **Role:** Lab manager (Jensen lab)
+    **Role:** *TODO*
 
-    **Ask about:** sample preparation, cryo-EM imaging, and data processing.
+    **Ask about:** *TODO*
 
--   :material-account:{ .lg .middle } **Rachel Webb**
+-   :material-account:{ .lg .middle } **Andrew Darley**
 
     ---
 
-    **Role:** Scientific writer/editor (Jensen lab)
+    **Role:** *TODO*
 
-    **Ask about:** writing up your work clearly for a general audience.
+    **Ask about:** *TODO*
 
 </div>
 
 !!! note "TODO — Josh to fill in"
-    *Add emails and contact preferences where missing, confirm whether Stefano/Zhiping/Rachel are
-    the right people for new BSG members to reach out to directly, and add anyone new who's joined
-    since this was last updated.*
+    *Add roles, emails, and contact preferences for David and Andrew, and confirm whether Stefano
+    is the right person for new BSG members to reach out to directly. Keep this updated as people
+    join and leave.*
 
 ## Who to ask about what
 
 | If you're stuck on... | Ask... |
 | --- | --- |
 | Supercomputer accounts & access | [BYU Research Computing](https://rc.byu.edu/) + *TODO: group point-person* |
-| Molecular dynamics simulations | Cayson Hamilton |
-| CryoET / image processing | Zhiping Zhang, or Dean Jensen |
+| Molecular dynamics simulations | *TODO: group point-person* |
+| CryoET / image processing | Dean Jensen, or *TODO: group point-person* |
 | Project direction & big-picture | Dr. Hart |
 | Day-to-day project feedback | Braxton Owens |
 | "I'm completely lost" | Anyone. Really. That's what we're here for. |
