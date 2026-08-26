@@ -34,11 +34,16 @@ See the full walkthrough on [The Supercomputer](supercomputer.md).
 | Resource | What it's for |
 | --- | --- |
 | [GitHub — Hello World guide](https://docs.github.com/en/get-started/quickstart/hello-world) | The basics of repositories, commits, and pull requests. |
-| [Dr. Hart's getting-started tutorial](https://github.com/msg-byu/getting-started) | git/GitHub plus tested, documented scientific code — written for his other research group. |
+| [GitHub tutorial video](https://www.youtube.com/watch?v=DVRQoVRzMIY) | A fuller walkthrough, including branches. ("master" in the video = "main" today.) |
+| [Dr. Hart's msg-byu getting-started tutorial](https://github.com/msg-byu/getting-started) | git/GitHub plus tested, documented scientific code — written for his other research group. |
+| [Dr. Hart's BSG getting-started repo](https://github.com/glwhart/getting-started) | Julia exercises, biophysics papers/books/lectures, and VS Code remote setup. |
 | [VS Code](https://code.visualstudio.com/) | The editor most of the group uses. |
 | [Google Colab](https://colab.research.google.com/) | Low-friction way to start writing and running Python. |
 | [Anthropic — Claude Code best practices](https://www.anthropic.com/engineering/claude-code-best-practices) | How to use AI coding tools well without losing your own understanding. |
-| [Julia](https://julialang.org/downloads/) | Install when your work calls for it. |
+| [Julia](https://julialang.org/downloads/) | The group's primary simulation language — install when your work calls for it. |
+| [A concise Julia tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/) | Setup plus a walkthrough of the language. |
+| [Julia syntax video](https://www.youtube.com/watch?v=sE67bP2PnOo) | Video introduction to the basics. |
+| [Julia Plots tutorial](https://docs.juliaplots.org/latest/tutorial/) | How plotting works in Julia. |
 | [PyTorch tutorials](https://pytorch.org/tutorials/) | Start with a simple MNIST classifier. |
 | [MNIST dataset](http://yann.lecun.com/exdb/mnist/) | Classic first machine-learning project. |
 | [Overleaf](https://www.overleaf.com/) | Where we write papers, using LaTeX. |
@@ -61,6 +66,19 @@ See the full ordered path on [Learning Path](learning-path.md).
 | [teamtomo](https://teamtomo.org/) | A collection of composable cryo-ET tools. |
 
 See the study path on [Understanding CryoEM](cryoem.md).
+
+## Simulation & biophysics background
+
+| Resource | What it's for |
+| --- | --- |
+| [E. coli Peptidoglycan Structure and Mechanics as Predicted by Atomic-Scale Simulations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003475) | Paper. |
+| [Coarse-Grained Molecular Dynamics Simulations of the Bacterial Cell Wall](https://www.researchgate.net/publication/304020343_Coarse-Grained_Molecular_Dynamics_Simulations_of_the_Bacterial_Cell_Wall) | Paper. |
+| [Coarse-grained simulations of bacterial cell wall growth reveal that local coordination alone can be sufficient to maintain rod shape](https://www.pnas.org/content/112/28/E3689.long) | Paper. |
+| [Simulations of Proposed Mechanisms of FtsZ-Driven Cell Constriction](https://journals.asm.org/doi/10.1128/JB.00576-20) | Paper. |
+| [James C. Gumbart](https://www.youtube.com/watch?v=tp-FPanCaWM) &bull; [Grant J. Jensen](https://www.youtube.com/watch?v=FSOrXcWOMJU) &bull; [Sven van Teeffelen](https://www.youtube.com/watch?v=oYY03X2mZgw) &bull; [Cécile Morlot](https://www.youtube.com/watch?v=71c3rET3qAI) &bull; [Bart Hoogenboom](https://www.youtube.com/watch?v=y-I0thStOv0) &bull; [Seamus Holden](https://www.youtube.com/watch?v=7GP5zZyTRPY) | Biophysical modeling lectures. |
+
+See the [Learning Path](learning-path.md) for the books in this list, and the
+[Tips & Tricks](tips.md) page for the full book table.
 
 ## Cell biology
 

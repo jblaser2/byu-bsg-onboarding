@@ -17,6 +17,10 @@ website.
   research group that walks through git/GitHub plus the basics of writing tested, documented
   scientific code. Some of the specific services it references are dated, but the git/GitHub
   fundamentals still apply.
+- Dr. Hart's [BSG getting-started repo](https://github.com/glwhart/getting-started) also has a
+  recommended [GitHub tutorial video](https://www.youtube.com/watch?v=DVRQoVRzMIY) — note that the
+  branch the video calls "master" is now typically called "main." The section on branches (around
+  the 27-minute mark) is worth a second look once you're past the basics.
 - **Use AI to help you learn it.** Tools like Claude Code (see below) are very good at explaining
   git errors, walking you through a merge conflict, or reviewing a pull request before you send
   it. Ask questions instead of guessing.
@@ -77,18 +81,58 @@ full study path; a few additional things worth knowing early:
     - [teamtomo](https://teamtomo.org/) — a collection of composable, well-maintained cryo-ET
       tools worth being aware of.
 
+### Simulation & biophysics background reading
+
+The simulation side of the group draws on a broader biophysics literature. A few papers, books,
+and lectures Dr. Hart has pointed new members to (from his
+[getting-started repo](https://github.com/glwhart/getting-started)):
+
+**Papers**
+
+- [E. coli Peptidoglycan Structure and Mechanics as Predicted by Atomic-Scale Simulations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003475)
+- [Coarse-Grained Molecular Dynamics Simulations of the Bacterial Cell Wall](https://www.researchgate.net/publication/304020343_Coarse-Grained_Molecular_Dynamics_Simulations_of_the_Bacterial_Cell_Wall)
+- [Coarse-grained simulations of bacterial cell wall growth reveal that local coordination alone can be sufficient to maintain rod shape](https://www.pnas.org/content/112/28/E3689.long)
+- [Simulations of Proposed Mechanisms of FtsZ-Driven Cell Constriction](https://journals.asm.org/doi/10.1128/JB.00576-20)
+
+**Books**
+
+- Howard C. Berg, *Random Walks in Biology*
+- Carl Zimmer, *Microcosm: E. coli and the New Science of Life*
+- Rob Phillips, *Physical Biology of the Cell*
+- Philip Nelson, [*Physical Models of Living Systems*](https://www.physics.upenn.edu/biophys/PMLS2e/index.html)
+- Philip Nelson, [*Biological Physics*](https://www.physics.upenn.edu/biophys/BPse/)
+
+**Lectures**
+
+- [James C. Gumbart](https://www.youtube.com/watch?v=tp-FPanCaWM)
+- [Grant J. Jensen](https://www.youtube.com/watch?v=FSOrXcWOMJU)
+- [Sven van Teeffelen](https://www.youtube.com/watch?v=oYY03X2mZgw)
+- [Cécile Morlot](https://www.youtube.com/watch?v=71c3rET3qAI)
+- [Bart Hoogenboom](https://www.youtube.com/watch?v=y-I0thStOv0)
+- [Seamus Holden](https://www.youtube.com/watch?v=7GP5zZyTRPY)
+
 ## 5. Languages: Python and Julia
 
-Python is the language you'll use most. Julia comes up for some of the group's simulation work.
+The group works in both. **Julia** is the group's primary language for simulation work — it's
+fast like C but reads like Python, which avoids having to prototype in one language and rewrite in
+another for speed (the "two-language problem"). **Python** is used heavily on the machine-learning
+and tomogram side.
 
+- Install [Julia](https://julialang.org/downloads/) and work through a few tutorials:
+    - [A concise Julia tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/) — also
+      covers setting up Julia with VS Code.
+    - [A video introduction to Julia syntax](https://www.youtube.com/watch?v=sE67bP2PnOo)
+    - [Julia Plots tutorial](https://docs.juliaplots.org/latest/tutorial/)
+- Then practice with the exercises in Dr. Hart's
+  [getting-started repo](https://github.com/glwhart/getting-started), starting with a random walk
+  simulation and moving on to problems from **Nicholas Giordano's *Computational Physics*
+  textbook** — bicycle motion, cannonball trajectory, and the natural pendulum. (This is likely
+  what "Giordano" refers to if you've heard the name — reference solutions are in that repo's
+  `code_solutions/` folder if you get stuck.)
 - Practice Python with a classic starting project: train a simple model on the
   [MNIST](http://yann.lecun.com/exdb/mnist/) handwritten-digit dataset using
   [PyTorch](https://pytorch.org/tutorials/). It's a small, well-documented project that touches
   most of the basics.
-- Install [Julia](https://julialang.org/downloads/) when your work calls for it.
-  !!! note "TODO"
-      *Josh: I couldn't confidently track down a specific "Giordano" Julia resource — let me know
-      who/what you meant (a person in the group, a book, a course?) and I'll add the link.*
 
 ## 6. Overleaf and paper writing
 

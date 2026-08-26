@@ -13,18 +13,20 @@ Dr. Hart has some **great book recommendations.**
 
 ### Dr. Hart's book recommendations
 
-<!-- TODO: Josh — get the actual list of Dr. Hart's recommended books and fill in the table below.
-Add author + a one-line "why" for each. -->
+These are the biophysics-focused books Dr. Hart points new members to (from his
+[getting-started repo](https://github.com/glwhart/getting-started)):
 
 | Book | Author | Why it's recommended |
 | --- | --- | --- |
-| *TODO: title* | *TODO* | *TODO* |
-| *TODO: title* | *TODO* | *TODO* |
-| *TODO: title* | *TODO* | *TODO* |
+| *Random Walks in Biology* | Howard C. Berg | A classic, approachable intro to the math behind biological motion — a good early read. |
+| *Microcosm: E. coli and the New Science of Life* | Carl Zimmer | A very readable look at what makes E. coli such an important model organism. |
+| *Physical Biology of the Cell* | Rob Phillips | A deeper, more quantitative look at the physics underlying cell biology. |
+| [*Physical Models of Living Systems*](https://www.physics.upenn.edu/biophys/PMLS2e/index.html) | Philip Nelson | Builds physical/mathematical models of biological systems from the ground up. |
+| [*Biological Physics*](https://www.physics.upenn.edu/biophys/BPse/) | Philip Nelson | A broader biophysics textbook covering the same territory in more depth. |
 
 !!! note "TODO"
-    *Josh: replace the placeholder rows above with Dr. Hart's actual recommendations. If it's a
-    long list, consider grouping by category (science, thinking/productivity, biography, etc.).*
+    *Josh: this list covers the biophysics reading — if Tea & Chat also covers non-technical books
+    (thinking, productivity, biography, etc.), add those here too.*
 
 ## General survival tips
 

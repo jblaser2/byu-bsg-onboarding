@@ -83,6 +83,18 @@ Submit the request and it's typically approved within a few days.
     No mouse, no windows — just the terminal. It feels unfamiliar for about a week, and then it
     starts to feel normal.
 
+## Connecting with VS Code
+
+Once you have an account, you can skip the bare terminal and edit files on the supercomputer
+directly from VS Code:
+
+1. Install the **Remote - SSH** extension from the VS Code extensions tab.
+2. Open the command menu (⌘⇧P / Ctrl+Shift+P), type "SSH," and choose **Add New SSH Host.** Enter
+   `ssh.rc.byu.edu`.
+3. Open the command menu again, choose **Connect to Host,** and select the host you just added. A
+   new VS Code window opens — enter your supercomputer password and verification code when
+   prompted. From there you can browse, edit files, and use the terminal as if you were local.
+
 ## Checklist
 
 - [ ] Request an account at [rc.byu.edu/account/create](https://rc.byu.edu/account/create/)
