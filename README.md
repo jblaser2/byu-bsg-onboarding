@@ -20,7 +20,6 @@ matching file in [`docs/`](docs/):
 | Page | File |
 | --- | --- |
 | Welcome / intro | `docs/index.md` |
-| Contact | `docs/contact.md` |
 | Getting Started | `docs/getting-started.md` |
 | Learning Path | `docs/learning-path.md` |
 | The Supercomputer | `docs/supercomputer.md` |
@@ -32,7 +31,8 @@ matching file in [`docs/`](docs/):
 | Glossary | `docs/glossary.md` |
 | Who's Who | `docs/contacts.md` |
 | FAQ | `docs/faq.md` |
-| About Me (tacked on at the end) | `docs/about-me.md` |
+| Contact (last item in the top nav) | `docs/contact.md` |
+| About Me (not in nav — linked only from Contact) | `docs/about-me.md` |
 
 Commit to `main` and the site rebuilds and redeploys automatically (see
 `.github/workflows/deploy.yml`).

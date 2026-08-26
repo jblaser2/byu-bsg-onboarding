@@ -43,7 +43,6 @@ theme:
 
 nav:
   - Welcome: index.md
-  - Contact: contact.md
   - Getting Started:
       - Getting Started: getting-started.md
       - Learning Path: learning-path.md
@@ -58,7 +57,7 @@ nav:
       - Glossary: glossary.md
       - Who's Who: contacts.md
       - FAQ: faq.md
-  - About Me: about-me.md
+  - Contact: contact.md
 
 markdown_extensions:
   - abbr

@@ -183,14 +183,6 @@ different parts of bacteria work. The team splits into two complementary halves.
 
 <div class="grid cards" markdown>
 
--   :material-card-account-phone:{ .lg .middle } **Contact**
-
-    ---
-
-    Who to ask, and how we communicate day to day.
-
-    [:octicons-arrow-right-24: Get in touch](contact.md)
-
 -   :material-map-marker-path:{ .lg .middle } **Getting Started**
 
     ---
@@ -239,13 +231,13 @@ different parts of bacteria work. The team splits into two complementary halves.
 
     [:octicons-arrow-right-24: FAQ](faq.md) &bull; [Glossary](glossary.md)
 
--   :material-account:{ .lg .middle } **About Me**
+-   :material-card-account-phone:{ .lg .middle } **Contact**
 
     ---
 
-    Who made this site and why.
+    Who to ask, and how we communicate day to day.
 
-    [:octicons-arrow-right-24: Read Josh's note](about-me.md)
+    [:octicons-arrow-right-24: Get in touch](contact.md)
 
 </div>
 

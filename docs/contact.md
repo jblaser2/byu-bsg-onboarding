@@ -6,16 +6,14 @@ Hi, I'm Josh — I was a research assistant in Dr. Hart's group from 2023 to 202
 site together based on what I wish I'd known when I started. If you want the longer version, see
 [About Me](about-me.md).
 
-**Reach me:**
-!!! note "TODO"
-    *Josh: add your preferred contact email here.*
+**Reach me:** joshuablaser@gmail.com
 
 ## Reach the group
 
 | Person | Role | Email |
 | --- | --- | --- |
 | Dr. Gus Hart | Principal Investigator | gus_hart@byu.edu |
-| Braxton | *(see [Who's Who](contacts.md))* | cbo27@byu.edu |
+| Braxton Owens | Doctoral student | cbo27@byu.edu |
 
 For the full directory — roles, who to ask about what — see [Who's Who](contacts.md).
 
