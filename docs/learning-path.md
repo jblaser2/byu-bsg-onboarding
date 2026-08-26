@@ -12,6 +12,11 @@ website.
 
 - Start with GitHub's own [Hello World guide](https://docs.github.com/en/get-started/quickstart/hello-world)
   to learn the basic flow: repositories, commits, branches, and pull requests.
+- Dr. Hart also has a
+  [getting-started tutorial](https://github.com/msg-byu/getting-started) written for his other
+  research group that walks through git/GitHub plus the basics of writing tested, documented
+  scientific code. Some of the specific services it references are dated, but the git/GitHub
+  fundamentals still apply.
 - **Use AI to help you learn it.** Tools like Claude Code (see below) are very good at explaining
   git errors, walking you through a merge conflict, or reviewing a pull request before you send
   it. Ask questions instead of guessing.

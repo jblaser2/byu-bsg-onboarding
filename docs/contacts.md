@@ -2,6 +2,13 @@
 
 Research goes a lot faster when you know **who to ask about what.** Here's the group directory.
 
+!!! info "Group meeting"
+    The whole group meets **Fridays at 10 AM in N149** (ESC).
+
+**Department of Physics and Astronomy** — N283 ESC, Provo, UT 84602
+Email: physics_office@byu.edu &bull; Phone: 801-422-4361 &bull;
+[Department directory](https://physics.byu.edu/department/directory)
+
 !!! note "TODO — Josh to fill in"
     *This page has placeholders. Add current members' names, roles, what they're expert in, and how
     they prefer to be contacted. Keep it updated as people join and leave — an out-of-date directory
@@ -19,6 +26,8 @@ Research goes a lot faster when you know **who to ask about what.** Here's the g
 
     **Ask about:** the big picture, project direction, book recommendations, and how to best
     contribute.
+
+    [Dr. Hart's bio](https://bsg.byu.edu/bio){ .md-button }
 
     *TODO: office location, email, preferred contact method, office hours.*
 

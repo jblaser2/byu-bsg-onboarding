@@ -1,9 +1,10 @@
 # The Supercomputer
 
-At some point you'll need access to BYU's Research Computing (RC) systems — what people usually
-just call "the supercomputer." It's not the first or most important thing to figure out (see
-[Getting Started](getting-started.md) for that), but you'll want it before long, since a lot of
-our work needs more storage and compute than a laptop can provide.
+At some point you'll need access to BYU's Research Computing (RC) systems — the cluster is called
+**Marylou**, though most people just call it "the supercomputer." It's not the first or most
+important thing to figure out (see [Getting Started](getting-started.md) for that), but you'll
+want it before long, since a lot of our work needs more storage and compute than a laptop can
+provide.
 
 ## What it is
 
@@ -59,6 +60,8 @@ Submit the request and it's typically approved within a few days.
     ---
 
     The supercomputer runs Linux. Learn to move around the terminal, manage files, and run jobs.
+    BYU's own [Marylou Unix tutorial](https://marylou.byu.edu/documentation/unix-tutorial/) is a
+    good place to start.
 
     Mac users have a head start: macOS's Terminal is Unix-based, which is similar enough to
     practice on.

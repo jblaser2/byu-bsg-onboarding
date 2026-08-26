@@ -11,6 +11,9 @@ The onboarding guide for new members of the **BYU Biophysics Simulation Group.**
 
 </div>
 
+This site is an unofficial companion written by a former group member. For the department's
+official group page, see [bsg.byu.edu](https://bsg.byu.edu/).
+
 Most STEM majors at BYU require — or strongly prefer — that their students get experience working
 as an undergraduate researcher. So first, congratulations: you have been lucky enough to stumble
 upon the **greatest research group there is.** We're glad to have you.
@@ -54,7 +57,8 @@ paper should be written that gives a detailed and reproducible account of the wo
 
 In many ways, publishing is treated as an end in itself, but it's better seen as a **means** to the
 real end: scientific progress. That said, you should aim to write at least one article and submit
-it for publication while you're researching here.
+it for publication while you're researching here. You can see what the group has published so far
+on the [publications page](https://bsg.byu.edu/publications).
 
 ## Group culture
 
@@ -86,8 +90,8 @@ Our group hosts weekly **Tea & Chat** meetings where we drink homemade tea and t
 lives, interesting things we've learned, a book we're reading together, and the problems we're
 working on. These meetings build unity and friendship across the group.
 
-The group also plays **handball** together — Dr. Hart is president of the handball club and
-enjoys when students come play.
+The group also plays **[handball](https://bsg.byu.edu/handball)** together — Dr. Hart is president
+of the handball club and enjoys when students come play.
 
 !!! info "The 10-hour standard"
     Each student is expected to put in **at least 10 hours of work each week.** What your days

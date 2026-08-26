@@ -2,6 +2,15 @@
 
 Every link on this site, gathered in one place. Bookmark this page.
 
+## The official group page
+
+| Resource | What it's for |
+| --- | --- |
+| [bsg.byu.edu](https://bsg.byu.edu/) | The department's official BSG page — mission, projects, and how to join. |
+| [Dr. Hart's bio](https://bsg.byu.edu/bio) | Background on the PI. |
+| [Publications](https://bsg.byu.edu/publications) | What the group has published. |
+| [Handball club](https://bsg.byu.edu/handball) | Dr. Hart is club president. |
+
 ## Getting hired & first steps
 
 | Resource | What it's for |
@@ -16,6 +25,7 @@ See [Getting Started](getting-started.md) for the full picture.
 | --- | --- |
 | [BYU Research Computing (rc.byu.edu)](https://rc.byu.edu/) | Docs, support tickets, the intro course. |
 | [rc.byu.edu/account/create](https://rc.byu.edu/account/create/) | Request a supercomputer account. |
+| [Marylou Unix tutorial](https://marylou.byu.edu/documentation/unix-tutorial/) | BYU's own intro to the command line on the cluster. |
 
 See the full walkthrough on [The Supercomputer](supercomputer.md).
 
@@ -24,6 +34,7 @@ See the full walkthrough on [The Supercomputer](supercomputer.md).
 | Resource | What it's for |
 | --- | --- |
 | [GitHub — Hello World guide](https://docs.github.com/en/get-started/quickstart/hello-world) | The basics of repositories, commits, and pull requests. |
+| [Dr. Hart's getting-started tutorial](https://github.com/msg-byu/getting-started) | git/GitHub plus tested, documented scientific code — written for his other research group. |
 | [VS Code](https://code.visualstudio.com/) | The editor most of the group uses. |
 | [Google Colab](https://colab.research.google.com/) | Low-friction way to start writing and running Python. |
 | [Anthropic — Claude Code best practices](https://www.anthropic.com/engineering/claude-code-best-practices) | How to use AI coding tools well without losing your own understanding. |
@@ -86,6 +97,7 @@ Dr. Hart's book recommendations live on the [Tips & Tricks](tips.md) page.
 | Resource | What it's for |
 | --- | --- |
 | [BYU Department of Physics & Astronomy](https://physics.byu.edu/) | The department that houses the group. |
+| [Department directory](https://physics.byu.edu/department/directory) | Look up department contacts. |
 | [physics.byu.edu/ra](https://physics.byu.edu/ra) | Apply for a research assistantship. |
 | [NSF](https://www.nsf.gov/) &bull; [DOE Office of Science](https://www.energy.gov/science/office-science) &bull; [NIH](https://www.nih.gov/) | Common funding agencies for research grants. |
 | [CZI grant](https://physics.byu.edu/department/news/2023-09-using-machine-learning-to-get-a-better-view-of-bacteria) | Funds the group's work developing AI methods to interpret cryo-ET tomograms of bacteria. |
