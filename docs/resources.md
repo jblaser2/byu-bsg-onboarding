@@ -112,6 +112,7 @@ See the learning path on [Machine Learning](machine-learning.md).
 | [Google Scholar](https://scholar.google.com/) | Search for papers, set up alerts for authors/topics. |
 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) | Biomedical literature search. |
 | [arXiv](https://arxiv.org/) &bull; [bioRxiv](https://www.biorxiv.org/) | Preprint servers — see new work before it's formally published. |
+| [Zotero](https://www.zotero.org/) | Free tool for organizing papers and taking notes on them. |
 
 See [Reading & Writing](reading-writing.md) for how to build these into a habit.
 

@@ -17,7 +17,8 @@ problem you're facing.
 - **Follow the citations.** A good paper's reference list is often more useful than the paper
   itself — it's a reading list someone already built for you.
 - **Keep a running note** of what you've read and the one-sentence takeaway. It's easy to read a
-  paper, nod along, and forget it a week later.
+  paper, nod along, and forget it a week later. [Zotero](https://www.zotero.org/) is a good free
+  tool for this — it organizes your papers and lets you take notes and highlight directly on them.
 - Papers specific to our work are already collected on [Understanding CryoEM](cryoem.md) and in
   the [Learning Path's background reading](learning-path.md#simulation-biophysics-background-reading)
   — start there, then branch out.
