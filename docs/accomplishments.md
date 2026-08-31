@@ -8,7 +8,8 @@ easy to only see the day-to-day grind; this page is a reminder that it adds up t
 Part of the group's CZI grant is about bringing more scientists into the cryoET field — not just
 producing papers. Our group ran its own competition to do exactly that:
 [BYU - Locating Bacterial Flagellar Motors 2025](https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025),
-hosted on Kaggle with a deadline of June 4, 2025.
+**hosted by Brigham Young University** on Kaggle, with a deadline of June 4, 2025 and a
+**$65,000 prize pool.**
 
 The challenge asked participants worldwide to build ML algorithms that automatically locate
 bacterial flagellar motors in real cryoET tomogram data — the exact particle-detection problem our
@@ -23,6 +24,11 @@ Bryan S. Morse, Grant J. Jensen, and Gus L.W. Hart — along with Walter C. Read
 Mohammed Kaplan (University of Chicago). Funding came from the NIH (R01 AI127401) and the
 **Chan Zuckerberg Initiative.**
 
+### How it went
+
+- **6,289 entrants**, of whom **1,371 actively participated**, forming **1,136 teams.**
+- **45,278 submissions** over the course of the competition.
+
 ### What came from it
 
 - The challenge engaged data scientists globally — many with no prior cryoET background — and
@@ -33,9 +39,10 @@ Mohammed Kaplan (University of Chicago). Funding came from the NIH (R01 AI127401
 - The work is written up in a preprint:
   [MotorBench: A Cryo-Electron Tomography Dataset of Bacterial Flagellar Motors for Testing Detection Algorithms](https://www.biorxiv.org/content/10.1101/2025.04.23.650258v1).
 
-That's the CZI grant's "bring more scientists to the field" goal, working exactly as intended.
+That's the CZI grant's "bring more scientists to the field" goal, working exactly as intended:
+over a thousand people, most of them new to cryoET, built working solutions to one of our group's
+real research problems.
 
 !!! note "TODO"
-    *Josh: fill in exact participant/team/submission numbers and the winning approach once you
-    have them handy — Kaggle's own pages weren't fetchable for this writeup. Also add any other
-    group accomplishments worth highlighting here (papers, follow-on collaborations, etc.).*
+    *Josh: add the winning approach/team if worth highlighting, plus any other group
+    accomplishments worth adding here (papers, follow-on collaborations, etc.).*
