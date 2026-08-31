@@ -28,6 +28,36 @@ equations and PyTorch.
 
 [:material-book-open-page-variant: Andrew Glassner — *Deep Learning: A Visual Approach*](https://glassner.com/homepage/books/non-fiction-gallery/book-deep-learning/){ .md-button }
 
+## Build an MNIST classifier
+
+The fastest way to make the intuition stick is to build something. **MNIST** — 70,000 small
+images of handwritten digits — is the classic first project: small, well-documented, and
+forgiving if you mess something up.
+
+Pick a language and an environment, and build a simple classifier that guesses which digit an
+image shows:
+
+- **Python, in Google Colab** — no setup required. Follow a
+  [PyTorch MNIST tutorial](https://pytorch.org/tutorials/) directly in the browser.
+- **Python, in VS Code** — same idea, running locally with PyTorch installed.
+- **Julia, in VS Code** — [FluxML's model zoo](https://github.com/FluxML/model-zoo) has a working
+  MNIST example to learn from.
+
+The shape of the project is the same either way: load the data, build a small neural network,
+train it for a few epochs, check its accuracy, and look at a few digits it got wrong. Getting this
+working end to end teaches you more than reading about it ever will.
+
+## Explore Kaggle
+
+Once you've built your own classifier, browse [Kaggle](https://www.kaggle.com/competitions) —
+especially the beginner-friendly "Getting Started" competitions. Kaggle even has its own
+[Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition built on MNIST, which is
+a natural next step after your own classifier. Try submitting an entry; public notebooks from
+other participants are a great way to see different approaches to the same problem.
+
+The group has also been involved with a real cryoET competition on Kaggle — see
+[Past Accomplishments](accomplishments.md) for how that went.
+
 ## A suggested order
 
 <div class="grid cards" markdown>
@@ -48,8 +78,9 @@ equations and PyTorch.
 
     ---
 
-    Apply it to a real group problem — ask a teammate what's currently useful.
-    See [Who's Who](contacts.md).
+    Build an MNIST classifier, then try a Kaggle competition. After that, apply what you've
+    learned to a real group problem — ask a teammate what's currently useful. See
+    [Who's Who](contacts.md).
 
 </div>
 
