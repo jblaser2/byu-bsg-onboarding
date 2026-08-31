@@ -9,15 +9,27 @@ To contribute to the imaging side of the group, you need a working understanding
 
     ---
 
-    Imaging many copies of a purified molecule and averaging them into a high-resolution structure.
+    Imaging thousands to millions of copies of a purified, homogeneous molecule, then averaging
+    them — after 2D/3D classification — to reach near-atomic resolution.
 
 -   :material-cube-scan:{ .lg .middle } **Cryogenic Electron Tomography (CryoET)**
 
     ---
 
-    Imaging structures *in situ* (inside the cell) as 3D tomograms. **This is our focus.**
+    Collecting a tilt series and reconstructing a 3D tomogram. **This is our focus.**
 
 </div>
+
+That split is a reasonable simplification, but two things are worth knowing as you dig in:
+
+- CryoET's flagship use is *in-situ* (cellular) imaging — often via FIB-milled lamellae or thin
+  cell edges — but it's also used on purified complexes, viruses, and reconstituted assemblies
+  when SPA struggles: heterogeneous samples, very large assemblies, or structures without helpful
+  symmetry. "In situ" is the headline use case, not the defining feature.
+- The defining feature is really the tilt series → 3D tomogram workflow. From there, cryoET often
+  applies **subtomogram averaging (STA)** to boost resolution — conceptually similar to SPA
+  (average many copies of a structure), except starting from 3D subvolumes pulled out of tomograms
+  instead of 2D projection images. STA is a big part of what our group works on.
 
 Below is the study path I recommend, roughly in order.
 
