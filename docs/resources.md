@@ -70,7 +70,7 @@ See the full ordered path on [Learning Path](learning-path.md).
 | [Methods in Enzymology, Vol. 579 (ScienceDirect, BYU login)](https://www.sciencedirect.com/bookseries/methods-in-enzymology/vol/579/suppl/C) | The full CryoEM book. We focus on Chapter 13. |
 | [The origin of the electron microscope (AAAS)](https://www.aaas.org/membership/scientia/development-electron-microscope) | The 1931 Ruska & Knoll story behind the technology. |
 | [CryoET Data Portal (CZI)](https://cryoetdataportal.czscience.com/) | Public repository of cryo-ET datasets. |
-| [Kaggle — CZII CryoET Object Identification](https://www.kaggle.com/competitions/czii-cryo-et-object-identification) | The ML competition the group has been involved with. |
+| [Kaggle — BYU Locating Bacterial Flagellar Motors 2025](https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025) | The group's own Kaggle competition. See [Past Accomplishments](accomplishments.md). |
 | [napari](https://napari.org/) | Multi-dimensional image viewer, used for looking at tomograms. |
 | [IMOD](https://bio3d.colorado.edu/imod/) | Standard tool for tomogram reconstruction and visualization. |
 | [teamtomo](https://teamtomo.org/) | A collection of composable cryo-ET tools. |

@@ -3,36 +3,39 @@
 A look at what the group's work — and the broader push it's part of — has already produced. It's
 easy to only see the day-to-day grind; this page is a reminder that it adds up to something real.
 
-## The CZII CryoET Object Identification Challenge (Kaggle)
+## BYU - Locating Bacterial Flagellar Motors 2025 (Kaggle)
 
-Part of the group's [CZI grant](learning-path.md#4-learn-the-field) is about bringing more
-scientists into the cryoET field — not just producing papers. The
-[CZII CryoET Object Identification Challenge](https://www.kaggle.com/competitions/czii-cryo-et-object-identification),
-run on Kaggle starting in November 2024, is a good example of that goal actually paying off.
+Part of the group's CZI grant is about bringing more scientists into the cryoET field — not just
+producing papers. Our group ran its own competition to do exactly that:
+[BYU - Locating Bacterial Flagellar Motors 2025](https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025),
+hosted on Kaggle with a deadline of June 4, 2025.
 
-The challenge asked participants to build ML algorithms that automatically identify protein
-complexes within real cryoET tomogram data — the same kind of particle-picking problem our group
-works on.
+The challenge asked participants worldwide to build ML algorithms that automatically locate
+bacterial flagellar motors in real cryoET tomogram data — the exact particle-detection problem our
+group works on. It's built around **MotorBench**, an expert-annotated flagellar-motor dataset
+curated by the group specifically for this purpose.
 
-### How it went
+### Who put it together
 
-- **1,100+ participants from over 70 countries**, forming 932 teams.
-- **Nearly 28,000 submissions** over the course of the competition.
-- Almost **three-quarters of all submitted solutions outperformed** the CZ Imaging Institute's own
-  benchmark model.
+MotorBench and the competition were put together by a team from the group and its collaborators:
+C. Braxton Owens, Rachel Webb, T. J. Hart, Matthew M. Ward, Andrew J. Darley, Stefano Maggi,
+Bryan S. Morse, Grant J. Jensen, and Gus L.W. Hart — along with Walter C. Reade (Kaggle/Google) and
+Mohammed Kaplan (University of Chicago). Funding came from the NIH (R01 AI127401) and the
+**Chan Zuckerberg Initiative.**
 
 ### What came from it
 
-- The winning algorithms were made publicly available, and their strategies were used to refine
-  **Octopi**, the Imaging Institute's benchmark particle-picking model.
-- All competition tomograms, ground truth, and winning teams' annotations were released on the
-  [CryoET Data Portal](https://cryoetdataportal.czscience.com/) and the Virtual Cell Platform — now
-  a standing benchmark resource for testing future particle-picking tools.
-- The results were written up for a Nature Methods manuscript documenting the challenge.
-- Most importantly for the grant's actual goal: over a thousand people — many with no prior cryoET
-  background — engaged directly with real tomogram data and built working solutions. That's
-  "bring more scientists to the field," working exactly as intended.
+- The challenge engaged data scientists globally — many with no prior cryoET background — and
+  delivered new machine learning algorithms that outperformed the previous state-of-the-art
+  software for this problem.
+- MotorBench is now a standing benchmark dataset for testing future flagellar-motor detection
+  algorithms.
+- The work is written up in a preprint:
+  [MotorBench: A Cryo-Electron Tomography Dataset of Bacterial Flagellar Motors for Testing Detection Algorithms](https://www.biorxiv.org/content/10.1101/2025.04.23.650258v1).
+
+That's the CZI grant's "bring more scientists to the field" goal, working exactly as intended.
 
 !!! note "TODO"
-    *Josh: fill in BYU's/Dr. Hart's specific role in this competition, and add any other group
-    accomplishments worth highlighting here (papers, follow-on collaborations, etc.).*
+    *Josh: fill in exact participant/team/submission numbers and the winning approach once you
+    have them handy — Kaggle's own pages weren't fetchable for this writeup. Also add any other
+    group accomplishments worth highlighting here (papers, follow-on collaborations, etc.).*

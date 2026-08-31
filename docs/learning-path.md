@@ -75,9 +75,10 @@ full study path; a few additional things worth knowing early:
   for more.
   !!! note "TODO"
       *Josh: confirm/expand this description of the grant.*
-- **[The Kaggle competition](https://www.kaggle.com/competitions/czii-cryo-et-object-identification)**
-  — CZII's CryoET Object Identification Challenge, which asked contestants to build ML models that
-  automatically identify protein molecules in tomograms.
+- **[The Kaggle competition](https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025)**
+  — *BYU - Locating Bacterial Flagellar Motors 2025*, our group's own competition, which asked
+  contestants to build ML models that locate flagellar motors in cryoET tomograms. See
+  [Past Accomplishments](accomplishments.md) for how it went.
 - **What a tomogram actually is** — a 3D image reconstructed from a tilt series, and usually quite
   blurry. Learn to view and navigate one using:
     - [napari](https://napari.org/) — a general-purpose multi-dimensional image viewer.
