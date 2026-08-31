@@ -25,6 +25,7 @@ matching file in [`docs/`](docs/):
 | The Supercomputer | `docs/supercomputer.md` |
 | Understanding CryoEM | `docs/cryoem.md` |
 | Machine Learning | `docs/machine-learning.md` |
+| Reading & Writing | `docs/reading-writing.md` |
 | Conferences | `docs/conferences.md` |
 | Tips & Tricks | `docs/tips.md` |
 | Resources (link hub) | `docs/resources.md` |

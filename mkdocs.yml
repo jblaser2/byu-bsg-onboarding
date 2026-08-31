@@ -50,6 +50,7 @@ nav:
       - Understanding CryoEM: cryoem.md
       - Machine Learning: machine-learning.md
   - Doing Research:
+      - Reading & Writing: reading-writing.md
       - Conferences: conferences.md
       - Tips & Tricks: tips.md
   - Reference:

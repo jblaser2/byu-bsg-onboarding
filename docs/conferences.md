@@ -1,7 +1,6 @@
 # Research Conferences
 
-An important — and genuinely enjoyable — part of being a researcher is **attending and presenting
-at research conferences.**
+An important part of being a researcher is **attending and presenting at research conferences.**
 
 ## What is a conference?
 
@@ -48,8 +47,11 @@ A few conferences relevant to our work that are worth keeping an eye on:
 - **[Red Rock Data Science Conference](https://www.redrockdatascience.com/)** — held each spring
   in Southern Utah, mixing technical sessions with outdoor excursions.
 - **[International Cryo-EM 3D Image Analysis Symposium](https://www.scintillon.org/2026-6th-cryo-em-symposium)**
-  — the "Tahoe" one — a biennial symposium at the Granlibakken Conference Center, Lake Tahoe,
-  focused on cryo-EM/cryo-ET image analysis methods.
+  — a biennial symposium at the Granlibakken Conference Center, Lake Tahoe, focused on cryo-EM/
+  cryo-ET image analysis methods.
+
+For a broader, community-maintained list of cryo-EM/cryo-ET conferences, see
+[Cryo Arcana's conference list](https://www.cryoarcana.com/conferences).
 
 <!-- TODO: Josh — if there are other conferences the group regularly attends (e.g. the Biophysical
 Society Annual Meeting, Gordon Research Conferences), add them here too. -->

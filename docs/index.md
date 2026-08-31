@@ -18,9 +18,6 @@ Most STEM majors at BYU require — or strongly prefer — that their students g
 as an undergraduate researcher. So first, congratulations: you have been lucky enough to stumble
 upon the **greatest research group there is.** We're glad to have you.
 
-!!! quote inline end "Hey"
-    New here and already feeling a little overwhelmed? That's normal, and it gets easier.
-
 Not sure where to begin? This site exists so you don't have to figure it out alone. Skim the cards
 at the bottom, or work through the site roughly in this order:
 

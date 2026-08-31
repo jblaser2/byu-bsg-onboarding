@@ -105,6 +105,16 @@ See the [Learning Path](learning-path.md) for the full reading list, including t
 
 See the learning path on [Machine Learning](machine-learning.md).
 
+## Reading & writing
+
+| Resource | What it's for |
+| --- | --- |
+| [Google Scholar](https://scholar.google.com/) | Search for papers, set up alerts for authors/topics. |
+| [PubMed](https://pubmed.ncbi.nlm.nih.gov/) | Biomedical literature search. |
+| [arXiv](https://arxiv.org/) &bull; [bioRxiv](https://www.biorxiv.org/) | Preprint servers — see new work before it's formally published. |
+
+See [Reading & Writing](reading-writing.md) for how to build these into a habit.
+
 ## Conferences & career
 
 | Resource | What it's for |
@@ -112,6 +122,7 @@ See the learning path on [Machine Learning](machine-learning.md).
 | [UW–Madison Cryo-EM Research Center](https://cryoem.wisc.edu/) — annual meeting | Check the center's site each year for the current annual meeting dates. |
 | [Red Rock Data Science Conference](https://www.redrockdatascience.com/) | Held each spring in Southern Utah. |
 | [International Cryo-EM 3D Image Analysis Symposium (Lake Tahoe)](https://www.scintillon.org/2026-6th-cryo-em-symposium) | Biennial symposium at Granlibakken Conference Center, Lake Tahoe. |
+| [Cryo Arcana's conference list](https://www.cryoarcana.com/conferences) | A broader, community-maintained list of cryo-EM/cryo-ET conferences. |
 
 See [Research Conferences](conferences.md) for why they matter.
 
